@@ -5,7 +5,7 @@
     "category": "Core",
     "bodyPart": "Core",
     "equipment": "Ab Wheel",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Ab%20Wheel"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Ab%20Wheel"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Aerobics"
+    "image": "https://placehold.co/400x300.png/3498DB/white?text=Aerobics"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Arnold%20Press"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Arnold%20Press"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Around%20the%20World"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Around%20the%20World"
   },
   {
     "id": "5",
@@ -37,7 +37,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Back%20Extension"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Back%20Extension"
   },
   {
     "id": "6",
@@ -45,7 +45,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Machine",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Back%20Extension%20%28Machine%29"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Back%20Extension%20%28Machine%29"
   },
   {
     "id": "7",
@@ -53,7 +53,7 @@
     "category": "Core",
     "bodyPart": "Core",
     "equipment": "Medicine Ball",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Ball%20Slams"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Ball%20Slams"
   },
   {
     "id": "8",
@@ -61,7 +61,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Barbell%20Bench%20Press"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Barbell%20Bench%20Press"
   },
   {
     "id": "9",
@@ -69,7 +69,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Barbell%20Curl"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Barbell%20Curl"
   },
   {
     "id": "10",
@@ -77,7 +77,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Barbell%20Deadlift"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Barbell%20Deadlift"
   },
   {
     "id": "11",
@@ -85,7 +85,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Barbell%20Front%20Squat"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Barbell%20Front%20Squat"
   },
   {
     "id": "12",
@@ -93,7 +93,7 @@
     "category": "Legs",
     "bodyPart": "Glutes",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Barbell%20Hip%20Thrust"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Barbell%20Hip%20Thrust"
   },
   {
     "id": "13",
@@ -101,7 +101,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Barbell%20Lunge"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Barbell%20Lunge"
   },
   {
     "id": "14",
@@ -109,7 +109,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Barbell%20Overhead%20Press"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Barbell%20Overhead%20Press"
   },
   {
     "id": "15",
@@ -117,7 +117,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Barbell%20Row"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Barbell%20Row"
   },
   {
     "id": "16",
@@ -125,7 +125,7 @@
     "category": "Shoulders",
     "bodyPart": "Traps",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Barbell%20Shrug"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Barbell%20Shrug"
   },
   {
     "id": "17",
@@ -133,7 +133,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Barbell%20Squat"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Barbell%20Squat"
   },
   {
     "id": "18",
@@ -141,7 +141,7 @@
     "category": "Cardio",
     "bodyPart": "Full Body",
     "equipment": "Battle Ropes",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Battle%20Ropes"
+    "image": "https://placehold.co/400x300.png/3498DB/white?text=Battle%20Ropes"
   },
   {
     "id": "19",
@@ -149,7 +149,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Bench",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Bench%20Dips"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Bench%20Dips"
   },
   {
     "id": "20",
@@ -157,7 +157,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Bench%20Press"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Bench%20Press"
   },
   {
     "id": "21",
@@ -165,7 +165,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Bicycle%20Crunch"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Bicycle%20Crunch"
   },
   {
     "id": "22",
@@ -173,7 +173,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Box",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Box%20Jump"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Box%20Jump"
   },
   {
     "id": "23",
@@ -181,7 +181,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Bulgarian%20Split%20Squat"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Bulgarian%20Split%20Squat"
   },
   {
     "id": "24",
@@ -189,7 +189,7 @@
     "category": "Cardio",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Burpees"
+    "image": "https://placehold.co/400x300.png/3498DB/white?text=Burpees"
   },
   {
     "id": "25",
@@ -197,7 +197,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Cable",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Cable%20Chest%20Fly"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Cable%20Chest%20Fly"
   },
   {
     "id": "26",
@@ -205,7 +205,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Cable",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Cable%20Crossover"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Cable%20Crossover"
   },
   {
     "id": "27",
@@ -213,7 +213,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Cable",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Cable%20Curl"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Cable%20Curl"
   },
   {
     "id": "28",
@@ -221,7 +221,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Cable%20Face%20Pull"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Cable%20Face%20Pull"
   },
   {
     "id": "29",
@@ -229,7 +229,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Cable%20Lateral%20Raise"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Cable%20Lateral%20Raise"
   },
   {
     "id": "30",
@@ -237,7 +237,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Cable",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Cable%20Pulldown"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Cable%20Pulldown"
   },
   {
     "id": "31",
@@ -245,7 +245,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Cable",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Cable%20Pushdown"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Cable%20Pushdown"
   },
   {
     "id": "32",
@@ -253,7 +253,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Cable",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Cable%20Row"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Cable%20Row"
   },
   {
     "id": "33",
@@ -261,7 +261,7 @@
     "category": "Legs",
     "bodyPart": "Calves",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Calf%20Raise"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Calf%20Raise"
   },
   {
     "id": "34",
@@ -269,7 +269,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Chest%20Dip"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Chest%20Dip"
   },
   {
     "id": "35",
@@ -277,7 +277,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Chin%20Up"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Chin%20Up"
   },
   {
     "id": "36",
@@ -285,7 +285,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Close%20Grip%20Bench%20Press"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Close%20Grip%20Bench%20Press"
   },
   {
     "id": "37",
@@ -293,7 +293,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Concentration%20Curl"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Concentration%20Curl"
   },
   {
     "id": "38",
@@ -301,7 +301,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Cross%20Body%20Crunch"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Cross%20Body%20Crunch"
   },
   {
     "id": "39",
@@ -309,7 +309,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Crunch"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Crunch"
   },
   {
     "id": "40",
@@ -317,7 +317,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Deadlift"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Deadlift"
   },
   {
     "id": "41",
@@ -325,7 +325,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Decline%20Bench%20Press"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Decline%20Bench%20Press"
   },
   {
     "id": "42",
@@ -333,7 +333,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Bench",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Decline%20Crunch"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Decline%20Crunch"
   },
   {
     "id": "43",
@@ -341,7 +341,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Dumbbell%20Bench%20Press"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Dumbbell%20Bench%20Press"
   },
   {
     "id": "44",
@@ -349,7 +349,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Dumbbell%20Curl"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Dumbbell%20Curl"
   },
   {
     "id": "45",
@@ -357,7 +357,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Dumbbell%20Fly"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Dumbbell%20Fly"
   },
   {
     "id": "46",
@@ -365,7 +365,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Dumbbell%20Front%20Raise"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Dumbbell%20Front%20Raise"
   },
   {
     "id": "47",
@@ -373,7 +373,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Dumbbell%20Lateral%20Raise"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Dumbbell%20Lateral%20Raise"
   },
   {
     "id": "48",
@@ -381,7 +381,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Dumbbell%20Lunge"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Dumbbell%20Lunge"
   },
   {
     "id": "49",
@@ -389,7 +389,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Dumbbell%20Overhead%20Press"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Dumbbell%20Overhead%20Press"
   },
   {
     "id": "50",
@@ -397,7 +397,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Dumbbell%20Pullover"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Dumbbell%20Pullover"
   },
   {
     "id": "51",
@@ -405,7 +405,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Dumbbell%20Row"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Dumbbell%20Row"
   },
   {
     "id": "52",
@@ -413,7 +413,7 @@
     "category": "Shoulders",
     "bodyPart": "Traps",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Dumbbell%20Shrug"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Dumbbell%20Shrug"
   },
   {
     "id": "53",
@@ -421,7 +421,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Dumbbell%20Squat"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Dumbbell%20Squat"
   },
   {
     "id": "54",
@@ -429,7 +429,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Dumbbell%20Tricep%20Extension"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Dumbbell%20Tricep%20Extension"
   },
   {
     "id": "55",
@@ -437,7 +437,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Machine",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Elliptical"
+    "image": "https://placehold.co/400x300.png/3498DB/white?text=Elliptical"
   },
   {
     "id": "56",
@@ -445,7 +445,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Face%20Pull"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Face%20Pull"
   },
   {
     "id": "57",
@@ -453,7 +453,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Farmers%20Walk"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Farmers%20Walk"
   },
   {
     "id": "58",
@@ -461,7 +461,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Bench",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Flat%20Bench%20Leg%20Raise"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Flat%20Bench%20Leg%20Raise"
   },
   {
     "id": "59",
@@ -469,7 +469,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Flutter%20Kicks"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Flutter%20Kicks"
   },
   {
     "id": "60",
@@ -477,7 +477,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Front%20Squat"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Front%20Squat"
   },
   {
     "id": "61",
@@ -485,7 +485,7 @@
     "category": "Legs",
     "bodyPart": "Glutes",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Glute%20Bridge"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Glute%20Bridge"
   },
   {
     "id": "62",
@@ -493,7 +493,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Goblet%20Squat"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Goblet%20Squat"
   },
   {
     "id": "63",
@@ -501,7 +501,7 @@
     "category": "Back",
     "bodyPart": "Lower Back",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Good%20Morning"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Good%20Morning"
   },
   {
     "id": "64",
@@ -509,7 +509,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Machine",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Hack%20Squat"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Hack%20Squat"
   },
   {
     "id": "65",
@@ -517,7 +517,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Hammer%20Curl"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Hammer%20Curl"
   },
   {
     "id": "66",
@@ -525,7 +525,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Hanging%20Knee%20Raise"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Hanging%20Knee%20Raise"
   },
   {
     "id": "67",
@@ -533,7 +533,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Hanging%20Leg%20Raise"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Hanging%20Leg%20Raise"
   },
   {
     "id": "68",
@@ -541,7 +541,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=High%20Knees"
+    "image": "https://placehold.co/400x300.png/3498DB/white?text=High%20Knees"
   },
   {
     "id": "69",
@@ -549,7 +549,7 @@
     "category": "Legs",
     "bodyPart": "Glutes",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Hip%20Thrust"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Hip%20Thrust"
   },
   {
     "id": "70",
@@ -557,7 +557,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Incline%20Bench%20Press"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Incline%20Bench%20Press"
   },
   {
     "id": "71",
@@ -565,7 +565,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Incline%20Dumbbell%20Curl"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Incline%20Dumbbell%20Curl"
   },
   {
     "id": "72",
@@ -573,7 +573,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Incline%20Dumbbell%20Press"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Incline%20Dumbbell%20Press"
   },
   {
     "id": "73",
@@ -581,7 +581,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Jump Rope",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Jump%20Rope"
+    "image": "https://placehold.co/400x300.png/3498DB/white?text=Jump%20Rope"
   },
   {
     "id": "74",
@@ -589,7 +589,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Jump%20Squat"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Jump%20Squat"
   },
   {
     "id": "75",
@@ -597,7 +597,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Jumping%20Jacks"
+    "image": "https://placehold.co/400x300.png/3498DB/white?text=Jumping%20Jacks"
   },
   {
     "id": "76",
@@ -605,7 +605,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Kettlebell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Kettlebell%20Swing"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Kettlebell%20Swing"
   },
   {
     "id": "77",
@@ -613,7 +613,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Knee%20Raise"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Knee%20Raise"
   },
   {
     "id": "78",
@@ -621,7 +621,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Cable",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Lat%20Pulldown"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Lat%20Pulldown"
   },
   {
     "id": "79",
@@ -629,7 +629,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Lateral%20Raise"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Lateral%20Raise"
   },
   {
     "id": "80",
@@ -637,7 +637,7 @@
     "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Machine",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Leg%20Curl"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Leg%20Curl"
   },
   {
     "id": "81",
@@ -645,7 +645,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Machine",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Leg%20Extension"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Leg%20Extension"
   },
   {
     "id": "82",
@@ -653,7 +653,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Machine",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Leg%20Press"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Leg%20Press"
   },
   {
     "id": "83",
@@ -661,7 +661,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Leg%20Raise"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Leg%20Raise"
   },
   {
     "id": "84",
@@ -669,7 +669,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Lunge"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Lunge"
   },
   {
     "id": "85",
@@ -677,7 +677,7 @@
     "category": "Cardio",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Mountain%20Climbers"
+    "image": "https://placehold.co/400x300.png/3498DB/white?text=Mountain%20Climbers"
   },
   {
     "id": "86",
@@ -685,7 +685,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Overhead%20Press"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Overhead%20Press"
   },
   {
     "id": "87",
@@ -693,7 +693,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Machine",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Pec%20Deck"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Pec%20Deck"
   },
   {
     "id": "88",
@@ -701,7 +701,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Pistol%20Squat"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Pistol%20Squat"
   },
   {
     "id": "89",
@@ -709,7 +709,7 @@
     "category": "Core",
     "bodyPart": "Core",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Plank"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Plank"
   },
   {
     "id": "90",
@@ -717,7 +717,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Power%20Clean"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Power%20Clean"
   },
   {
     "id": "91",
@@ -725,7 +725,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Preacher%20Curl"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Preacher%20Curl"
   },
   {
     "id": "92",
@@ -733,7 +733,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Pull%20Up"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Pull%20Up"
   },
   {
     "id": "93",
@@ -741,7 +741,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Push%20Press"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Push%20Press"
   },
   {
     "id": "94",
@@ -749,7 +749,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Push%20Up"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Push%20Up"
   },
   {
     "id": "95",
@@ -757,7 +757,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Reverse%20Crunch"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Reverse%20Crunch"
   },
   {
     "id": "96",
@@ -765,7 +765,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Reverse%20Fly"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Reverse%20Fly"
   },
   {
     "id": "97",
@@ -773,7 +773,7 @@
     "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Romanian%20Deadlift"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Romanian%20Deadlift"
   },
   {
     "id": "98",
@@ -781,7 +781,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Machine",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Rowing%20Machine"
+    "image": "https://placehold.co/400x300.png/3498DB/white?text=Rowing%20Machine"
   },
   {
     "id": "99",
@@ -789,7 +789,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Russian%20Twist"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Russian%20Twist"
   },
   {
     "id": "100",
@@ -797,7 +797,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Cable",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Seated%20Cable%20Row"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Seated%20Cable%20Row"
   },
   {
     "id": "101",
@@ -805,7 +805,7 @@
     "category": "Legs",
     "bodyPart": "Calves",
     "equipment": "Machine",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Seated%20Calf%20Raise"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Seated%20Calf%20Raise"
   },
   {
     "id": "102",
@@ -813,7 +813,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Machine",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Shoulder%20Press%20Machine"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Shoulder%20Press%20Machine"
   },
   {
     "id": "103",
@@ -821,7 +821,7 @@
     "category": "Core",
     "bodyPart": "Core",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Side%20Plank"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Side%20Plank"
   },
   {
     "id": "104",
@@ -829,7 +829,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Sit%20Up"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Sit%20Up"
   },
   {
     "id": "105",
@@ -837,7 +837,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Skull%20Crusher"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Skull%20Crusher"
   },
   {
     "id": "106",
@@ -845,7 +845,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Smith Machine",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Smith%20Machine%20Bench%20Press"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Smith%20Machine%20Bench%20Press"
   },
   {
     "id": "107",
@@ -853,7 +853,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Smith Machine",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Smith%20Machine%20Squat"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Smith%20Machine%20Squat"
   },
   {
     "id": "108",
@@ -861,7 +861,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Squat"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Squat"
   },
   {
     "id": "109",
@@ -869,7 +869,7 @@
     "category": "Legs",
     "bodyPart": "Calves",
     "equipment": "Machine",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Standing%20Calf%20Raise"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Standing%20Calf%20Raise"
   },
   {
     "id": "110",
@@ -877,7 +877,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Step%20Up"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Step%20Up"
   },
   {
     "id": "111",
@@ -885,7 +885,7 @@
     "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Stiff%20Leg%20Deadlift"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Stiff%20Leg%20Deadlift"
   },
   {
     "id": "112",
@@ -893,7 +893,7 @@
     "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Sumo%20Deadlift"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Sumo%20Deadlift"
   },
   {
     "id": "113",
@@ -901,7 +901,7 @@
     "category": "Back",
     "bodyPart": "Lower Back",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Superman"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Superman"
   },
   {
     "id": "114",
@@ -909,7 +909,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=T-Bar%20Row"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=T-Bar%20Row"
   },
   {
     "id": "115",
@@ -917,7 +917,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Thruster"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Thruster"
   },
   {
     "id": "116",
@@ -925,7 +925,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Machine",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Treadmill"
+    "image": "https://placehold.co/400x300.png/3498DB/white?text=Treadmill"
   },
   {
     "id": "117",
@@ -933,7 +933,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Tricep%20Dip"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Tricep%20Dip"
   },
   {
     "id": "118",
@@ -941,7 +941,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Cable",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Tricep%20Pushdown"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Tricep%20Pushdown"
   },
   {
     "id": "119",
@@ -949,7 +949,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Kettlebell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Turkish%20Get%20Up"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Turkish%20Get%20Up"
   },
   {
     "id": "120",
@@ -957,7 +957,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Upright%20Row"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Upright%20Row"
   },
   {
     "id": "121",
@@ -965,7 +965,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=V-Up"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=V-Up"
   },
   {
     "id": "122",
@@ -973,7 +973,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Medicine Ball",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Wall%20Ball"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Wall%20Ball"
   },
   {
     "id": "123",
@@ -981,7 +981,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Wall%20Sit"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Wall%20Sit"
   },
   {
     "id": "124",
@@ -989,7 +989,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Wide%20Grip%20Pull%20Up"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Wide%20Grip%20Pull%20Up"
   },
   {
     "id": "125",
@@ -997,7 +997,7 @@
     "category": "Core",
     "bodyPart": "Core",
     "equipment": "Kettlebell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Windmill"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Windmill"
   },
   {
     "id": "126",
@@ -1005,7 +1005,7 @@
     "category": "Arms",
     "bodyPart": "Forearms",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Wrist%20Curl"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Wrist%20Curl"
   },
   {
     "id": "127",
@@ -1013,7 +1013,7 @@
     "category": "Flexibility",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Yoga"
+    "image": "https://placehold.co/400x300.png/2ECC71/white?text=Yoga"
   },
   {
     "id": "128",
@@ -1021,6 +1021,6 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://placehold.co/400x300/4A90E2/white?text=Zottman%20Curl"
+    "image": "https://placehold.co/400x300.png/4A90E2/white?text=Zottman%20Curl"
   }
 ]

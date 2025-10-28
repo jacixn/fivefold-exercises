@@ -2,10 +2,17 @@
   {
     "id": "1",
     "name": "Ab Wheel",
-    "category": "Machine / Other",
+    "category": "Core",
     "bodyPart": "Core",
     "equipment": "Ab Wheel",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Hold the ab wheel with both hands and kneel on the floor.",
+      "Place the ab roller on the floor in front of your knees. This is your starting position.",
+      "Slowly roll the wheel forward in a controlled manner, stretching out the torso as far as you can without touching the floor with your body.",
+      "Stop when fully stretched and pause for a moment.",
+      "Pull yourself back to the starting position."
+    ]
   },
   {
     "id": "2",
@@ -13,175 +20,349 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=400&h=400&fit=crop",
+    "instructions": [
+      "Choose your preferred aerobic activity (running, cycling, dancing, etc.).",
+      "Start with a light warm-up for 5 minutes.",
+      "Gradually increase intensity to your target heart rate zone.",
+      "Maintain consistent movement for your desired duration (20-60 minutes).",
+      "Cool down with 5 minutes of light activity and stretching."
+    ]
   },
   {
     "id": "3",
     "name": "Arnold Press",
-    "category": "Dumbbell",
+    "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Sit on a bench with back support, holding dumbbells at shoulder level with palms facing you.",
+      "This is your starting position.",
+      "As you begin to press the dumbbells overhead, rotate your wrists so your palms face forward.",
+      "Continue pressing until arms are fully extended overhead.",
+      "Reverse the motion, rotating palms back toward you as you lower to starting position."
+    ]
   },
   {
     "id": "4",
     "name": "Around the World",
-    "category": "Dumbbell",
+    "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Lie on a flat bench holding a dumbbell with both hands directly above your chest.",
+      "Keep a slight bend in your elbows throughout the movement.",
+      "Lower the weight in an arc motion over and around your head.",
+      "Continue the circular motion, bringing the weight down toward your hips.",
+      "Complete the circle by bringing the weight back to starting position.",
+      "Repeat in the opposite direction."
+    ]
   },
   {
     "id": "5",
     "name": "Back Extension",
-    "category": "Reps Only",
+    "category": "Back",
     "bodyPart": "Back",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself with proper posture and grip the handles or bar.",
+      "Engage your core and keep your back straight.",
+      "Pull the weight toward your body, squeezing your shoulder blades together.",
+      "Control the weight as you return to the starting position.",
+      "Focus on using your back muscles, not just your arms.",
+      "Complete the desired number of repetitions."
+    ]
   },
   {
     "id": "6",
     "name": "Back Extension (Machine)",
-    "category": "Machine / Other",
+    "category": "Back",
     "bodyPart": "Back",
     "equipment": "Machine",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself with proper posture and grip the handles or bar.",
+      "Engage your core and keep your back straight.",
+      "Pull the weight toward your body, squeezing your shoulder blades together.",
+      "Control the weight as you return to the starting position.",
+      "Focus on using your back muscles, not just your arms.",
+      "Complete the desired number of repetitions."
+    ]
   },
   {
     "id": "7",
     "name": "Ball Slams",
-    "category": "Machine / Other",
+    "category": "Core",
     "bodyPart": "Core",
     "equipment": "Medicine Ball",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself in the starting position with proper form.",
+      "Engage your core muscles and maintain a neutral spine.",
+      "Perform the movement with control, focusing on your core.",
+      "Breathe steadily throughout the exercise.",
+      "Hold or move through the full range of motion.",
+      "Return to starting position and repeat."
+    ]
   },
   {
     "id": "8",
     "name": "Barbell Bench Press",
-    "category": "Barbell",
+    "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself on the bench or in starting position.",
+      "Grip the handles or weights firmly with proper hand placement.",
+      "Lower the weight in a controlled motion, feeling the stretch in your chest.",
+      "Press the weight back up, squeezing your chest muscles at the top.",
+      "Maintain control throughout the entire range of motion.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "9",
     "name": "Barbell Curl",
-    "category": "Barbell",
+    "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "10",
     "name": "Barbell Deadlift",
-    "category": "Barbell",
+    "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself with proper posture and grip the handles or bar.",
+      "Engage your core and keep your back straight.",
+      "Pull the weight toward your body, squeezing your shoulder blades together.",
+      "Control the weight as you return to the starting position.",
+      "Focus on using your back muscles, not just your arms.",
+      "Complete the desired number of repetitions."
+    ]
   },
   {
     "id": "11",
     "name": "Barbell Front Squat",
-    "category": "Barbell",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "12",
     "name": "Barbell Hip Thrust",
-    "category": "Barbell",
+    "category": "Legs",
     "bodyPart": "Glutes",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "13",
     "name": "Barbell Lunge",
-    "category": "Barbell",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "14",
     "name": "Barbell Overhead Press",
-    "category": "Barbell",
+    "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Stand or sit with proper posture and core engaged.",
+      "Hold the weight(s) at the starting position.",
+      "Press or lift the weight in a controlled motion.",
+      "Squeeze your shoulder muscles at the peak of the movement.",
+      "Lower the weight with control to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "15",
     "name": "Barbell Row",
-    "category": "Barbell",
+    "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself with proper posture and grip the handles or bar.",
+      "Engage your core and keep your back straight.",
+      "Pull the weight toward your body, squeezing your shoulder blades together.",
+      "Control the weight as you return to the starting position.",
+      "Focus on using your back muscles, not just your arms.",
+      "Complete the desired number of repetitions."
+    ]
   },
   {
     "id": "16",
     "name": "Barbell Shrug",
-    "category": "Barbell",
+    "category": "Shoulders",
     "bodyPart": "Traps",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "17",
     "name": "Barbell Squat",
-    "category": "Barbell",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "18",
     "name": "Battle Ropes",
-    "category": "Machine / Other",
+    "category": "Cardio",
     "bodyPart": "Full Body",
     "equipment": "Battle Ropes",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "19",
     "name": "Bench Dips",
-    "category": "Reps Only",
+    "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Bench",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "20",
     "name": "Bench Press",
-    "category": "Barbell",
+    "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself on the bench or in starting position.",
+      "Grip the handles or weights firmly with proper hand placement.",
+      "Lower the weight in a controlled motion, feeling the stretch in your chest.",
+      "Press the weight back up, squeezing your chest muscles at the top.",
+      "Maintain control throughout the entire range of motion.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "21",
     "name": "Bicycle Crunch",
-    "category": "Reps Only",
+    "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "22",
     "name": "Box Jump",
-    "category": "Reps Only",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Box",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "23",
     "name": "Bulgarian Split Squat",
-    "category": "Barbell",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "24",
@@ -189,247 +370,495 @@
     "category": "Cardio",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "25",
     "name": "Cable Chest Fly",
-    "category": "Machine / Other",
+    "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Cable",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself on the bench or in starting position.",
+      "Grip the handles or weights firmly with proper hand placement.",
+      "Lower the weight in a controlled motion, feeling the stretch in your chest.",
+      "Press the weight back up, squeezing your chest muscles at the top.",
+      "Maintain control throughout the entire range of motion.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "26",
     "name": "Cable Crossover",
-    "category": "Machine / Other",
+    "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Cable",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself on the bench or in starting position.",
+      "Grip the handles or weights firmly with proper hand placement.",
+      "Lower the weight in a controlled motion, feeling the stretch in your chest.",
+      "Press the weight back up, squeezing your chest muscles at the top.",
+      "Maintain control throughout the entire range of motion.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "27",
     "name": "Cable Curl",
-    "category": "Machine / Other",
+    "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Cable",
-    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "28",
     "name": "Cable Face Pull",
-    "category": "Machine / Other",
+    "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Stand or sit with proper posture and core engaged.",
+      "Hold the weight(s) at the starting position.",
+      "Press or lift the weight in a controlled motion.",
+      "Squeeze your shoulder muscles at the peak of the movement.",
+      "Lower the weight with control to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "29",
     "name": "Cable Lateral Raise",
-    "category": "Machine / Other",
+    "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Stand or sit with proper posture and core engaged.",
+      "Hold the weight(s) at the starting position.",
+      "Press or lift the weight in a controlled motion.",
+      "Squeeze your shoulder muscles at the peak of the movement.",
+      "Lower the weight with control to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "30",
     "name": "Cable Pulldown",
-    "category": "Machine / Other",
+    "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Cable",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "31",
     "name": "Cable Pushdown",
-    "category": "Machine / Other",
+    "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Cable",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "32",
     "name": "Cable Row",
-    "category": "Machine / Other",
+    "category": "Back",
     "bodyPart": "Back",
     "equipment": "Cable",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself with proper posture and grip the handles or bar.",
+      "Engage your core and keep your back straight.",
+      "Pull the weight toward your body, squeezing your shoulder blades together.",
+      "Control the weight as you return to the starting position.",
+      "Focus on using your back muscles, not just your arms.",
+      "Complete the desired number of repetitions."
+    ]
   },
   {
     "id": "33",
     "name": "Calf Raise",
-    "category": "Reps Only",
+    "category": "Legs",
     "bodyPart": "Calves",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "34",
     "name": "Chest Dip",
-    "category": "Reps Only",
+    "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself on the bench or in starting position.",
+      "Grip the handles or weights firmly with proper hand placement.",
+      "Lower the weight in a controlled motion, feeling the stretch in your chest.",
+      "Press the weight back up, squeezing your chest muscles at the top.",
+      "Maintain control throughout the entire range of motion.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "35",
     "name": "Chin Up",
-    "category": "Reps Only",
+    "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "36",
     "name": "Close Grip Bench Press",
-    "category": "Barbell",
+    "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "37",
     "name": "Concentration Curl",
-    "category": "Dumbbell",
+    "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "38",
     "name": "Cross Body Crunch",
-    "category": "Reps Only",
+    "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "39",
     "name": "Crunch",
-    "category": "Reps Only",
+    "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "40",
     "name": "Deadlift",
-    "category": "Barbell",
+    "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself with proper posture and grip the handles or bar.",
+      "Engage your core and keep your back straight.",
+      "Pull the weight toward your body, squeezing your shoulder blades together.",
+      "Control the weight as you return to the starting position.",
+      "Focus on using your back muscles, not just your arms.",
+      "Complete the desired number of repetitions."
+    ]
   },
   {
     "id": "41",
     "name": "Decline Bench Press",
-    "category": "Barbell",
+    "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself on the bench or in starting position.",
+      "Grip the handles or weights firmly with proper hand placement.",
+      "Lower the weight in a controlled motion, feeling the stretch in your chest.",
+      "Press the weight back up, squeezing your chest muscles at the top.",
+      "Maintain control throughout the entire range of motion.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "42",
     "name": "Decline Crunch",
-    "category": "Reps Only",
+    "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Bench",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "43",
     "name": "Dumbbell Bench Press",
-    "category": "Dumbbell",
+    "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself on the bench or in starting position.",
+      "Grip the handles or weights firmly with proper hand placement.",
+      "Lower the weight in a controlled motion, feeling the stretch in your chest.",
+      "Press the weight back up, squeezing your chest muscles at the top.",
+      "Maintain control throughout the entire range of motion.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "44",
     "name": "Dumbbell Curl",
-    "category": "Dumbbell",
+    "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "45",
     "name": "Dumbbell Fly",
-    "category": "Dumbbell",
+    "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself on the bench or in starting position.",
+      "Grip the handles or weights firmly with proper hand placement.",
+      "Lower the weight in a controlled motion, feeling the stretch in your chest.",
+      "Press the weight back up, squeezing your chest muscles at the top.",
+      "Maintain control throughout the entire range of motion.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "46",
     "name": "Dumbbell Front Raise",
-    "category": "Dumbbell",
+    "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Stand or sit with proper posture and core engaged.",
+      "Hold the weight(s) at the starting position.",
+      "Press or lift the weight in a controlled motion.",
+      "Squeeze your shoulder muscles at the peak of the movement.",
+      "Lower the weight with control to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "47",
     "name": "Dumbbell Lateral Raise",
-    "category": "Dumbbell",
+    "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Stand or sit with proper posture and core engaged.",
+      "Hold the weight(s) at the starting position.",
+      "Press or lift the weight in a controlled motion.",
+      "Squeeze your shoulder muscles at the peak of the movement.",
+      "Lower the weight with control to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "48",
     "name": "Dumbbell Lunge",
-    "category": "Dumbbell",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "49",
     "name": "Dumbbell Overhead Press",
-    "category": "Dumbbell",
+    "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Stand or sit with proper posture and core engaged.",
+      "Hold the weight(s) at the starting position.",
+      "Press or lift the weight in a controlled motion.",
+      "Squeeze your shoulder muscles at the peak of the movement.",
+      "Lower the weight with control to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "50",
     "name": "Dumbbell Pullover",
-    "category": "Dumbbell",
+    "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "51",
     "name": "Dumbbell Row",
-    "category": "Dumbbell",
+    "category": "Back",
     "bodyPart": "Back",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself with proper posture and grip the handles or bar.",
+      "Engage your core and keep your back straight.",
+      "Pull the weight toward your body, squeezing your shoulder blades together.",
+      "Control the weight as you return to the starting position.",
+      "Focus on using your back muscles, not just your arms.",
+      "Complete the desired number of repetitions."
+    ]
   },
   {
     "id": "52",
     "name": "Dumbbell Shrug",
-    "category": "Dumbbell",
+    "category": "Shoulders",
     "bodyPart": "Traps",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "53",
     "name": "Dumbbell Squat",
-    "category": "Dumbbell",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "54",
     "name": "Dumbbell Tricep Extension",
-    "category": "Dumbbell",
+    "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "55",
@@ -437,103 +866,207 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Machine",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Start with a light warm-up to prepare your body.",
+      "Gradually increase intensity to your target heart rate.",
+      "Maintain consistent movement and proper form.",
+      "Focus on steady breathing throughout the activity.",
+      "Continue for your desired duration.",
+      "Cool down with light activity and stretching."
+    ]
   },
   {
     "id": "56",
     "name": "Face Pull",
-    "category": "Reps Only",
+    "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Stand or sit with proper posture and core engaged.",
+      "Hold the weight(s) at the starting position.",
+      "Press or lift the weight in a controlled motion.",
+      "Squeeze your shoulder muscles at the peak of the movement.",
+      "Lower the weight with control to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "57",
     "name": "Farmers Walk",
-    "category": "Dumbbell",
+    "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "58",
     "name": "Flat Bench Leg Raise",
-    "category": "Reps Only",
+    "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Bench",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "59",
     "name": "Flutter Kicks",
-    "category": "Reps Only",
+    "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "60",
     "name": "Front Squat",
-    "category": "Barbell",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "61",
     "name": "Glute Bridge",
-    "category": "Reps Only",
+    "category": "Legs",
     "bodyPart": "Glutes",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "62",
     "name": "Goblet Squat",
-    "category": "Barbell",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "63",
     "name": "Good Morning",
-    "category": "Barbell",
+    "category": "Back",
     "bodyPart": "Lower Back",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "64",
     "name": "Hack Squat",
-    "category": "Machine / Other",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Machine",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "65",
     "name": "Hammer Curl",
-    "category": "Dumbbell",
+    "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "66",
     "name": "Hanging Knee Raise",
-    "category": "Reps Only",
+    "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "67",
     "name": "Hanging Leg Raise",
-    "category": "Reps Only",
+    "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "68",
@@ -541,39 +1074,79 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Start with a light warm-up to prepare your body.",
+      "Gradually increase intensity to your target heart rate.",
+      "Maintain consistent movement and proper form.",
+      "Focus on steady breathing throughout the activity.",
+      "Continue for your desired duration.",
+      "Cool down with light activity and stretching."
+    ]
   },
   {
     "id": "69",
     "name": "Hip Thrust",
-    "category": "Barbell",
+    "category": "Legs",
     "bodyPart": "Glutes",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "70",
     "name": "Incline Bench Press",
-    "category": "Barbell",
+    "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself on the bench or in starting position.",
+      "Grip the handles or weights firmly with proper hand placement.",
+      "Lower the weight in a controlled motion, feeling the stretch in your chest.",
+      "Press the weight back up, squeezing your chest muscles at the top.",
+      "Maintain control throughout the entire range of motion.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "71",
     "name": "Incline Dumbbell Curl",
-    "category": "Dumbbell",
+    "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "72",
     "name": "Incline Dumbbell Press",
-    "category": "Dumbbell",
+    "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself on the bench or in starting position.",
+      "Grip the handles or weights firmly with proper hand placement.",
+      "Lower the weight in a controlled motion, feeling the stretch in your chest.",
+      "Press the weight back up, squeezing your chest muscles at the top.",
+      "Maintain control throughout the entire range of motion.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "73",
@@ -581,15 +1154,31 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Jump Rope",
-    "image": "https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Start with a light warm-up to prepare your body.",
+      "Gradually increase intensity to your target heart rate.",
+      "Maintain consistent movement and proper form.",
+      "Focus on steady breathing throughout the activity.",
+      "Continue for your desired duration.",
+      "Cool down with light activity and stretching."
+    ]
   },
   {
     "id": "74",
     "name": "Jump Squat",
-    "category": "Barbell",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "75",
@@ -597,79 +1186,159 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Start with a light warm-up to prepare your body.",
+      "Gradually increase intensity to your target heart rate.",
+      "Maintain consistent movement and proper form.",
+      "Focus on steady breathing throughout the activity.",
+      "Continue for your desired duration.",
+      "Cool down with light activity and stretching."
+    ]
   },
   {
     "id": "76",
     "name": "Kettlebell Swing",
-    "category": "Machine / Other",
+    "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Kettlebell",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "77",
     "name": "Knee Raise",
-    "category": "Reps Only",
+    "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "78",
     "name": "Lat Pulldown",
-    "category": "Machine / Other",
+    "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Cable",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "79",
     "name": "Lateral Raise",
-    "category": "Dumbbell",
+    "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Stand or sit with proper posture and core engaged.",
+      "Hold the weight(s) at the starting position.",
+      "Press or lift the weight in a controlled motion.",
+      "Squeeze your shoulder muscles at the peak of the movement.",
+      "Lower the weight with control to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "80",
     "name": "Leg Curl",
-    "category": "Machine / Other",
+    "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Machine",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "81",
     "name": "Leg Extension",
-    "category": "Machine / Other",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Machine",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "82",
     "name": "Leg Press",
-    "category": "Machine / Other",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Machine",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "83",
     "name": "Leg Raise",
-    "category": "Reps Only",
+    "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "84",
     "name": "Lunge",
-    "category": "Reps Only",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "85",
@@ -677,103 +1346,207 @@
     "category": "Cardio",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "86",
     "name": "Overhead Press",
-    "category": "Barbell",
+    "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Stand or sit with proper posture and core engaged.",
+      "Hold the weight(s) at the starting position.",
+      "Press or lift the weight in a controlled motion.",
+      "Squeeze your shoulder muscles at the peak of the movement.",
+      "Lower the weight with control to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "87",
     "name": "Pec Deck",
-    "category": "Machine / Other",
+    "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Machine",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself on the bench or in starting position.",
+      "Grip the handles or weights firmly with proper hand placement.",
+      "Lower the weight in a controlled motion, feeling the stretch in your chest.",
+      "Press the weight back up, squeezing your chest muscles at the top.",
+      "Maintain control throughout the entire range of motion.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "88",
     "name": "Pistol Squat",
-    "category": "Barbell",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "89",
     "name": "Plank",
-    "category": "Duration",
+    "category": "Core",
     "bodyPart": "Core",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself in the starting position with proper form.",
+      "Engage your core muscles and maintain a neutral spine.",
+      "Perform the movement with control, focusing on your core.",
+      "Breathe steadily throughout the exercise.",
+      "Hold or move through the full range of motion.",
+      "Return to starting position and repeat."
+    ]
   },
   {
     "id": "90",
     "name": "Power Clean",
-    "category": "Barbell",
+    "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "91",
     "name": "Preacher Curl",
-    "category": "Barbell",
+    "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "92",
     "name": "Pull Up",
-    "category": "Reps Only",
+    "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "93",
     "name": "Push Press",
-    "category": "Barbell",
+    "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Stand or sit with proper posture and core engaged.",
+      "Hold the weight(s) at the starting position.",
+      "Press or lift the weight in a controlled motion.",
+      "Squeeze your shoulder muscles at the peak of the movement.",
+      "Lower the weight with control to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "94",
     "name": "Push Up",
-    "category": "Reps Only",
+    "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself on the bench or in starting position.",
+      "Grip the handles or weights firmly with proper hand placement.",
+      "Lower the weight in a controlled motion, feeling the stretch in your chest.",
+      "Press the weight back up, squeezing your chest muscles at the top.",
+      "Maintain control throughout the entire range of motion.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "95",
     "name": "Reverse Crunch",
-    "category": "Reps Only",
+    "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "96",
     "name": "Reverse Fly",
-    "category": "Dumbbell",
+    "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Stand or sit with proper posture and core engaged.",
+      "Hold the weight(s) at the starting position.",
+      "Press or lift the weight in a controlled motion.",
+      "Squeeze your shoulder muscles at the peak of the movement.",
+      "Lower the weight with control to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "97",
     "name": "Romanian Deadlift",
-    "category": "Barbell",
+    "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "98",
@@ -781,143 +1554,287 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Machine",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Start with a light warm-up to prepare your body.",
+      "Gradually increase intensity to your target heart rate.",
+      "Maintain consistent movement and proper form.",
+      "Focus on steady breathing throughout the activity.",
+      "Continue for your desired duration.",
+      "Cool down with light activity and stretching."
+    ]
   },
   {
     "id": "99",
     "name": "Russian Twist",
-    "category": "Reps Only",
+    "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "100",
     "name": "Seated Cable Row",
-    "category": "Machine / Other",
+    "category": "Back",
     "bodyPart": "Back",
     "equipment": "Cable",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself with proper posture and grip the handles or bar.",
+      "Engage your core and keep your back straight.",
+      "Pull the weight toward your body, squeezing your shoulder blades together.",
+      "Control the weight as you return to the starting position.",
+      "Focus on using your back muscles, not just your arms.",
+      "Complete the desired number of repetitions."
+    ]
   },
   {
     "id": "101",
     "name": "Seated Calf Raise",
-    "category": "Reps Only",
+    "category": "Legs",
     "bodyPart": "Calves",
     "equipment": "Machine",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "102",
     "name": "Shoulder Press Machine",
-    "category": "Machine / Other",
+    "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Machine",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Stand or sit with proper posture and core engaged.",
+      "Hold the weight(s) at the starting position.",
+      "Press or lift the weight in a controlled motion.",
+      "Squeeze your shoulder muscles at the peak of the movement.",
+      "Lower the weight with control to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "103",
     "name": "Side Plank",
-    "category": "Duration",
+    "category": "Core",
     "bodyPart": "Core",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself in the starting position with proper form.",
+      "Engage your core muscles and maintain a neutral spine.",
+      "Perform the movement with control, focusing on your core.",
+      "Breathe steadily throughout the exercise.",
+      "Hold or move through the full range of motion.",
+      "Return to starting position and repeat."
+    ]
   },
   {
     "id": "104",
     "name": "Sit Up",
-    "category": "Reps Only",
+    "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "105",
     "name": "Skull Crusher",
-    "category": "Barbell",
+    "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "106",
     "name": "Smith Machine Bench Press",
-    "category": "Machine / Other",
+    "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Smith Machine",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself on the bench or in starting position.",
+      "Grip the handles or weights firmly with proper hand placement.",
+      "Lower the weight in a controlled motion, feeling the stretch in your chest.",
+      "Press the weight back up, squeezing your chest muscles at the top.",
+      "Maintain control throughout the entire range of motion.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "107",
     "name": "Smith Machine Squat",
-    "category": "Machine / Other",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Smith Machine",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "108",
     "name": "Squat",
-    "category": "Barbell",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "109",
     "name": "Standing Calf Raise",
-    "category": "Reps Only",
+    "category": "Legs",
     "bodyPart": "Calves",
     "equipment": "Machine",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "110",
     "name": "Step Up",
-    "category": "Reps Only",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "111",
     "name": "Stiff Leg Deadlift",
-    "category": "Barbell",
+    "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "112",
     "name": "Sumo Deadlift",
-    "category": "Barbell",
+    "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "113",
     "name": "Superman",
-    "category": "Reps Only",
+    "category": "Back",
     "bodyPart": "Lower Back",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "114",
     "name": "T-Bar Row",
-    "category": "Barbell",
+    "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself with proper posture and grip the handles or bar.",
+      "Engage your core and keep your back straight.",
+      "Pull the weight toward your body, squeezing your shoulder blades together.",
+      "Control the weight as you return to the starting position.",
+      "Focus on using your back muscles, not just your arms.",
+      "Complete the desired number of repetitions."
+    ]
   },
   {
     "id": "115",
     "name": "Thruster",
-    "category": "Barbell",
+    "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "116",
@@ -925,102 +1842,206 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Machine",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Start with a light warm-up to prepare your body.",
+      "Gradually increase intensity to your target heart rate.",
+      "Maintain consistent movement and proper form.",
+      "Focus on steady breathing throughout the activity.",
+      "Continue for your desired duration.",
+      "Cool down with light activity and stretching."
+    ]
   },
   {
     "id": "117",
     "name": "Tricep Dip",
-    "category": "Reps Only",
+    "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "118",
     "name": "Tricep Pushdown",
-    "category": "Machine / Other",
+    "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Cable",
-    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "119",
     "name": "Turkish Get Up",
-    "category": "Machine / Other",
+    "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Kettlebell",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "120",
     "name": "Upright Row",
-    "category": "Barbell",
+    "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Stand or sit with proper posture and core engaged.",
+      "Hold the weight(s) at the starting position.",
+      "Press or lift the weight in a controlled motion.",
+      "Squeeze your shoulder muscles at the peak of the movement.",
+      "Lower the weight with control to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ]
   },
   {
     "id": "121",
     "name": "V-Up",
-    "category": "Reps Only",
+    "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "122",
     "name": "Wall Ball",
-    "category": "Machine / Other",
+    "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Medicine Ball",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "123",
     "name": "Wall Sit",
-    "category": "Duration",
+    "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "124",
     "name": "Wide Grip Pull Up",
-    "category": "Reps Only",
+    "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "125",
     "name": "Windmill",
-    "category": "Machine / Other",
+    "category": "Core",
     "bodyPart": "Core",
     "equipment": "Kettlebell",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself in the starting position with proper form.",
+      "Engage your core muscles and maintain a neutral spine.",
+      "Perform the movement with control, focusing on your core.",
+      "Breathe steadily throughout the exercise.",
+      "Hold or move through the full range of motion.",
+      "Return to starting position and repeat."
+    ]
   },
   {
     "id": "126",
     "name": "Wrist Curl",
-    "category": "Dumbbell",
+    "category": "Arms",
     "bodyPart": "Forearms",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "127",
     "name": "Yoga",
-    "category": "Reps Only",
+    "category": "Flexibility",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
-    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   },
   {
     "id": "128",
     "name": "Zottman Curl",
-    "category": "Dumbbell",
+    "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop",
+    "instructions": [
+      "Position yourself properly for the exercise with correct form.",
+      "Engage your core and maintain proper posture throughout.",
+      "Perform the movement in a slow and controlled manner.",
+      "Focus on the target muscle group and maintain tension.",
+      "Complete the desired number of repetitions.",
+      "Rest adequately between sets."
+    ]
   }
 ]

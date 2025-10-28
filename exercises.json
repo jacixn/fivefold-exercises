@@ -5,7 +5,7 @@
     "category": "Core",
     "bodyPart": "Core",
     "equipment": "Ab Wheel",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Ab%2BWheel"
+    "image": "https://wger.de/media/exercise-images/91/ab-wheel-1.png"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/3498db/ffffff&text=Aerobics"
+    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=400"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Arnold%2BPress"
+    "image": "https://wger.de/media/exercise-images/88/Arnold-press-1.png"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Around%2Bthe%2BWorld"
+    "image": "https://wger.de/media/exercise-images/129/Decline-Dumbbell-Flye-1.png"
   },
   {
     "id": "5",
@@ -37,7 +37,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Back%2BExtension"
+    "image": "https://wger.de/media/exercise-images/93/Back-extension-1.png"
   },
   {
     "id": "6",
@@ -45,7 +45,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Machine",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Back%2BExtension%2B%28Mach"
+    "image": "https://wger.de/media/exercise-images/93/Back-extension-1.png"
   },
   {
     "id": "7",
@@ -53,7 +53,7 @@
     "category": "Core",
     "bodyPart": "Core",
     "equipment": "Medicine Ball",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Ball%2BSlams"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400"
   },
   {
     "id": "8",
@@ -61,7 +61,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Barbell%2BBench%2BPress"
+    "image": "https://wger.de/media/exercise-images/77/bench-press-2.png"
   },
   {
     "id": "9",
@@ -69,7 +69,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Barbell%2BCurl"
+    "image": "https://wger.de/media/exercise-images/74/Barbell-curl-1.png"
   },
   {
     "id": "10",
@@ -77,7 +77,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Barbell%2BDeadlift"
+    "image": "https://wger.de/media/exercise-images/105/Deadlift-2.png"
   },
   {
     "id": "11",
@@ -85,7 +85,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Barbell%2BFront%2BSquat"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "12",
@@ -93,7 +93,7 @@
     "category": "Legs",
     "bodyPart": "Glutes",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Barbell%2BHip%2BThrust"
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400"
   },
   {
     "id": "13",
@@ -101,7 +101,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Barbell%2BLunge"
+    "image": "https://wger.de/media/exercise-images/83/Dumbbell-Lunge-1.png"
   },
   {
     "id": "14",
@@ -109,7 +109,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Barbell%2BOverhead%2BPre"
+    "image": "https://wger.de/media/exercise-images/87/Shoulder-press-1.png"
   },
   {
     "id": "15",
@@ -117,7 +117,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Barbell%2BRow"
+    "image": "https://wger.de/media/exercise-images/47/Bent-over-barbell-row-1.png"
   },
   {
     "id": "16",
@@ -125,7 +125,7 @@
     "category": "Shoulders",
     "bodyPart": "Traps",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Barbell%2BShrug"
+    "image": "https://wger.de/media/exercise-images/111/Barbell-shrugs-1.png"
   },
   {
     "id": "17",
@@ -133,7 +133,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Barbell%2BSquat"
+    "image": "https://wger.de/media/exercise-images/86/Front-squats-1.png"
   },
   {
     "id": "18",
@@ -141,7 +141,7 @@
     "category": "Cardio",
     "bodyPart": "Full Body",
     "equipment": "Battle Ropes",
-    "image": "https://dummyimage.com/400x300/3498db/ffffff&text=Battle%2BRopes"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400"
   },
   {
     "id": "19",
@@ -149,7 +149,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Bench",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Bench%2BDips"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "20",
@@ -157,7 +157,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Bench%2BPress"
+    "image": "https://wger.de/media/exercise-images/77/bench-press-2.png"
   },
   {
     "id": "21",
@@ -165,7 +165,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Bicycle%2BCrunch"
+    "image": "https://wger.de/media/exercise-images/126/bicycle-crunch-1.png"
   },
   {
     "id": "22",
@@ -173,7 +173,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Box",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Box%2BJump"
+    "image": "https://wger.de/media/exercise-images/200/Box-jump-1.png"
   },
   {
     "id": "23",
@@ -181,7 +181,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Bulgarian%2BSplit%2BSqua"
+    "image": "https://wger.de/media/exercise-images/136/Bulgarian-split-squat-1.png"
   },
   {
     "id": "24",
@@ -189,7 +189,7 @@
     "category": "Cardio",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/3498db/ffffff&text=Burpees"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "25",
@@ -197,7 +197,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Cable",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Cable%2BChest%2BFly"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "26",
@@ -205,7 +205,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Cable",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Cable%2BCrossover"
+    "image": "https://wger.de/media/exercise-images/54/Cable-cross-over-2.png"
   },
   {
     "id": "27",
@@ -213,7 +213,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Cable",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Cable%2BCurl"
+    "image": "https://wger.de/media/exercise-images/75/cable-curl-1.png"
   },
   {
     "id": "28",
@@ -221,7 +221,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Cable%2BFace%2BPull"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "29",
@@ -229,7 +229,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Cable%2BLateral%2BRaise"
+    "image": "https://wger.de/media/exercise-images/120/cable-raises-1.png"
   },
   {
     "id": "30",
@@ -237,7 +237,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Cable",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Cable%2BPulldown"
+    "image": "https://wger.de/media/exercise-images/116/Lat-pulldowns-1.png"
   },
   {
     "id": "31",
@@ -245,7 +245,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Cable",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Cable%2BPushdown"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "32",
@@ -253,7 +253,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Cable",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Cable%2BRow"
+    "image": "https://wger.de/media/exercise-images/53/Cable-row-2.png"
   },
   {
     "id": "33",
@@ -261,7 +261,7 @@
     "category": "Legs",
     "bodyPart": "Calves",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Calf%2BRaise"
+    "image": "https://wger.de/media/exercise-images/109/standing-calf-raises-1.png"
   },
   {
     "id": "34",
@@ -269,7 +269,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Chest%2BDip"
+    "image": "https://wger.de/media/exercise-images/82/Bench-dips-1.png"
   },
   {
     "id": "35",
@@ -277,7 +277,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Chin%2BUp"
+    "image": "https://wger.de/media/exercise-images/156/Chin-up-1.png"
   },
   {
     "id": "36",
@@ -285,7 +285,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Close%2BGrip%2BBench%2BPre"
+    "image": "https://wger.de/media/exercise-images/78/close-grip-bench-press-2.png"
   },
   {
     "id": "37",
@@ -293,7 +293,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Concentration%2BCurl"
+    "image": "https://wger.de/media/exercise-images/127/concentration-curls-1.png"
   },
   {
     "id": "38",
@@ -301,7 +301,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Cross%2BBody%2BCrunch"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "39",
@@ -309,7 +309,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Crunch"
+    "image": "https://wger.de/media/exercise-images/91/crunches-1.png"
   },
   {
     "id": "40",
@@ -317,7 +317,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Deadlift"
+    "image": "https://wger.de/media/exercise-images/105/Deadlift-2.png"
   },
   {
     "id": "41",
@@ -325,7 +325,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Decline%2BBench%2BPress"
+    "image": "https://wger.de/media/exercise-images/128/decline-bench-press-1.png"
   },
   {
     "id": "42",
@@ -333,7 +333,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Bench",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Decline%2BCrunch"
+    "image": "https://wger.de/media/exercise-images/125/decline-crunch-1.png"
   },
   {
     "id": "43",
@@ -341,7 +341,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Dumbbell%2BBench%2BPress"
+    "image": "https://wger.de/media/exercise-images/81/Dumbbell-bench-press-1.png"
   },
   {
     "id": "44",
@@ -349,7 +349,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Dumbbell%2BCurl"
+    "image": "https://wger.de/media/exercise-images/76/dumbbell-bicep-curl-1.png"
   },
   {
     "id": "45",
@@ -357,7 +357,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Dumbbell%2BFly"
+    "image": "https://wger.de/media/exercise-images/79/Dumbbell-flys-1.png"
   },
   {
     "id": "46",
@@ -365,7 +365,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Dumbbell%2BFront%2BRaise"
+    "image": "https://wger.de/media/exercise-images/119/Front-raises-1.png"
   },
   {
     "id": "47",
@@ -373,7 +373,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Dumbbell%2BLateral%2BRai"
+    "image": "https://wger.de/media/exercise-images/118/Lateral-raises-1.png"
   },
   {
     "id": "48",
@@ -381,7 +381,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Dumbbell%2BLunge"
+    "image": "https://wger.de/media/exercise-images/83/Dumbbell-Lunge-1.png"
   },
   {
     "id": "49",
@@ -389,7 +389,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Dumbbell%2BOverhead%2BPr"
+    "image": "https://wger.de/media/exercise-images/90/dumbbell-shoulder-press-1.png"
   },
   {
     "id": "50",
@@ -397,7 +397,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Dumbbell%2BPullover"
+    "image": "https://wger.de/media/exercise-images/130/Dumbbell-pullover-1.png"
   },
   {
     "id": "51",
@@ -405,7 +405,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Dumbbell%2BRow"
+    "image": "https://wger.de/media/exercise-images/132/one-arm-cable-row-1.png"
   },
   {
     "id": "52",
@@ -413,7 +413,7 @@
     "category": "Shoulders",
     "bodyPart": "Traps",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Dumbbell%2BShrug"
+    "image": "https://wger.de/media/exercise-images/112/dumbbell-shrugs-1.png"
   },
   {
     "id": "53",
@@ -421,7 +421,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Dumbbell%2BSquat"
+    "image": "https://wger.de/media/exercise-images/172/dumbbell-squat-1.png"
   },
   {
     "id": "54",
@@ -429,7 +429,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Dumbbell%2BTricep%2BExte"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "55",
@@ -437,7 +437,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Machine",
-    "image": "https://dummyimage.com/400x300/3498db/ffffff&text=Elliptical"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "56",
@@ -445,7 +445,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Face%2BPull"
+    "image": "https://wger.de/media/exercise-images/179/face-pull-1.png"
   },
   {
     "id": "57",
@@ -453,7 +453,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Farmers%2BWalk"
+    "image": "https://wger.de/media/exercise-images/186/farmers-walk-1.png"
   },
   {
     "id": "58",
@@ -461,7 +461,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Bench",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Flat%2BBench%2BLeg%2BRaise"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "59",
@@ -469,7 +469,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Flutter%2BKicks"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "60",
@@ -477,7 +477,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Front%2BSquat"
+    "image": "https://wger.de/media/exercise-images/86/Front-squats-1.png"
   },
   {
     "id": "61",
@@ -485,7 +485,7 @@
     "category": "Legs",
     "bodyPart": "Glutes",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Glute%2BBridge"
+    "image": "https://wger.de/media/exercise-images/198/glute-bridge-1.png"
   },
   {
     "id": "62",
@@ -493,7 +493,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Goblet%2BSquat"
+    "image": "https://wger.de/media/exercise-images/173/goblet-squat-1.png"
   },
   {
     "id": "63",
@@ -501,7 +501,7 @@
     "category": "Back",
     "bodyPart": "Lower Back",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Good%2BMorning"
+    "image": "https://wger.de/media/exercise-images/182/good-morning-1.png"
   },
   {
     "id": "64",
@@ -509,7 +509,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Machine",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Hack%2BSquat"
+    "image": "https://wger.de/media/exercise-images/175/hack-squat-1.png"
   },
   {
     "id": "65",
@@ -517,7 +517,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Hammer%2BCurl"
+    "image": "https://wger.de/media/exercise-images/152/hammer-curls-1.png"
   },
   {
     "id": "66",
@@ -525,7 +525,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Hanging%2BKnee%2BRaise"
+    "image": "https://wger.de/media/exercise-images/138/hanging-leg-raise-1.png"
   },
   {
     "id": "67",
@@ -533,7 +533,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Hanging%2BLeg%2BRaise"
+    "image": "https://wger.de/media/exercise-images/138/hanging-leg-raise-1.png"
   },
   {
     "id": "68",
@@ -541,7 +541,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/3498db/ffffff&text=High%2BKnees"
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400"
   },
   {
     "id": "69",
@@ -549,7 +549,7 @@
     "category": "Legs",
     "bodyPart": "Glutes",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Hip%2BThrust"
+    "image": "https://wger.de/media/exercise-images/198/glute-bridge-1.png"
   },
   {
     "id": "70",
@@ -557,7 +557,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Incline%2BBench%2BPress"
+    "image": "https://wger.de/media/exercise-images/80/incline-bench-press-1.png"
   },
   {
     "id": "71",
@@ -565,7 +565,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Incline%2BDumbbell%2BCur"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "72",
@@ -573,7 +573,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Incline%2BDumbbell%2BPre"
+    "image": "https://wger.de/media/exercise-images/89/incline-dumbbell-press-1.png"
   },
   {
     "id": "73",
@@ -581,7 +581,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Jump Rope",
-    "image": "https://dummyimage.com/400x300/3498db/ffffff&text=Jump%2BRope"
+    "image": "https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?w=400"
   },
   {
     "id": "74",
@@ -589,7 +589,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Jump%2BSquat"
+    "image": "https://wger.de/media/exercise-images/201/jump-squat-1.png"
   },
   {
     "id": "75",
@@ -597,7 +597,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/3498db/ffffff&text=Jumping%2BJacks"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "76",
@@ -605,7 +605,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Kettlebell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Kettlebell%2BSwing"
+    "image": "https://wger.de/media/exercise-images/196/Kettlebell-swing-1.png"
   },
   {
     "id": "77",
@@ -613,7 +613,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Knee%2BRaise"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "78",
@@ -621,7 +621,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Cable",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Lat%2BPulldown"
+    "image": "https://wger.de/media/exercise-images/116/Lat-pulldowns-1.png"
   },
   {
     "id": "79",
@@ -629,7 +629,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Lateral%2BRaise"
+    "image": "https://wger.de/media/exercise-images/118/Lateral-raises-1.png"
   },
   {
     "id": "80",
@@ -637,7 +637,7 @@
     "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Machine",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Leg%2BCurl"
+    "image": "https://wger.de/media/exercise-images/108/Hamstring-curls-1.png"
   },
   {
     "id": "81",
@@ -645,7 +645,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Machine",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Leg%2BExtension"
+    "image": "https://wger.de/media/exercise-images/107/Quad-extensions-1.png"
   },
   {
     "id": "82",
@@ -653,7 +653,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Machine",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Leg%2BPress"
+    "image": "https://wger.de/media/exercise-images/106/Leg-press-1.png"
   },
   {
     "id": "83",
@@ -661,7 +661,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Leg%2BRaise"
+    "image": "https://wger.de/media/exercise-images/138/hanging-leg-raise-1.png"
   },
   {
     "id": "84",
@@ -669,7 +669,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Lunge"
+    "image": "https://wger.de/media/exercise-images/83/Dumbbell-Lunge-1.png"
   },
   {
     "id": "85",
@@ -677,7 +677,7 @@
     "category": "Cardio",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/3498db/ffffff&text=Mountain%2BClimbers"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "86",
@@ -685,7 +685,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Overhead%2BPress"
+    "image": "https://wger.de/media/exercise-images/87/Shoulder-press-1.png"
   },
   {
     "id": "87",
@@ -693,7 +693,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Machine",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Pec%2BDeck"
+    "image": "https://wger.de/media/exercise-images/55/Pec-deck-2.png"
   },
   {
     "id": "88",
@@ -701,7 +701,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Pistol%2BSquat"
+    "image": "https://wger.de/media/exercise-images/174/pistol-squat-1.png"
   },
   {
     "id": "89",
@@ -709,7 +709,7 @@
     "category": "Core",
     "bodyPart": "Core",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Plank"
+    "image": "https://wger.de/media/exercise-images/137/plank-1.png"
   },
   {
     "id": "90",
@@ -717,7 +717,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Power%2BClean"
+    "image": "https://wger.de/media/exercise-images/208/power-clean-1.png"
   },
   {
     "id": "91",
@@ -725,7 +725,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Preacher%2BCurl"
+    "image": "https://wger.de/media/exercise-images/154/preacher-curl-1.png"
   },
   {
     "id": "92",
@@ -733,7 +733,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Pull%2BUp"
+    "image": "https://wger.de/media/exercise-images/155/pull-ups-1.png"
   },
   {
     "id": "93",
@@ -741,7 +741,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Push%2BPress"
+    "image": "https://wger.de/media/exercise-images/189/push-press-1.png"
   },
   {
     "id": "94",
@@ -749,7 +749,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Push%2BUp"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "95",
@@ -757,7 +757,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Reverse%2BCrunch"
+    "image": "https://wger.de/media/exercise-images/139/reverse-crunch-1.png"
   },
   {
     "id": "96",
@@ -765,7 +765,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Reverse%2BFly"
+    "image": "https://wger.de/media/exercise-images/121/reverse-flys-1.png"
   },
   {
     "id": "97",
@@ -773,7 +773,7 @@
     "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Romanian%2BDeadlift"
+    "image": "https://wger.de/media/exercise-images/183/romanian-deadlift-1.png"
   },
   {
     "id": "98",
@@ -781,7 +781,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Machine",
-    "image": "https://dummyimage.com/400x300/3498db/ffffff&text=Rowing%2BMachine"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "99",
@@ -789,7 +789,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Russian%2BTwist"
+    "image": "https://wger.de/media/exercise-images/140/russian-twist-1.png"
   },
   {
     "id": "100",
@@ -797,7 +797,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Cable",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Seated%2BCable%2BRow"
+    "image": "https://wger.de/media/exercise-images/53/Cable-row-2.png"
   },
   {
     "id": "101",
@@ -805,7 +805,7 @@
     "category": "Legs",
     "bodyPart": "Calves",
     "equipment": "Machine",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Seated%2BCalf%2BRaise"
+    "image": "https://wger.de/media/exercise-images/110/seated-calf-raises-1.png"
   },
   {
     "id": "102",
@@ -813,7 +813,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Machine",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Shoulder%2BPress%2BMachi"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "103",
@@ -821,7 +821,7 @@
     "category": "Core",
     "bodyPart": "Core",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Side%2BPlank"
+    "image": "https://wger.de/media/exercise-images/141/side-plank-1.png"
   },
   {
     "id": "104",
@@ -829,7 +829,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Sit%2BUp"
+    "image": "https://wger.de/media/exercise-images/142/situps-1.png"
   },
   {
     "id": "105",
@@ -837,7 +837,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Skull%2BCrusher"
+    "image": "https://wger.de/media/exercise-images/157/skullcrushers-1.png"
   },
   {
     "id": "106",
@@ -845,7 +845,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Smith Machine",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Smith%2BMachine%2BBench%2B"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "107",
@@ -853,7 +853,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Smith Machine",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Smith%2BMachine%2BSquat"
+    "image": "https://wger.de/media/exercise-images/176/smith-machine-squat-1.png"
   },
   {
     "id": "108",
@@ -861,7 +861,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Squat"
+    "image": "https://wger.de/media/exercise-images/86/Front-squats-1.png"
   },
   {
     "id": "109",
@@ -869,7 +869,7 @@
     "category": "Legs",
     "bodyPart": "Calves",
     "equipment": "Machine",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Standing%2BCalf%2BRaise"
+    "image": "https://wger.de/media/exercise-images/109/standing-calf-raises-1.png"
   },
   {
     "id": "110",
@@ -877,7 +877,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Step%2BUp"
+    "image": "https://wger.de/media/exercise-images/177/step-up-1.png"
   },
   {
     "id": "111",
@@ -885,7 +885,7 @@
     "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Stiff%2BLeg%2BDeadlift"
+    "image": "https://wger.de/media/exercise-images/183/romanian-deadlift-1.png"
   },
   {
     "id": "112",
@@ -893,7 +893,7 @@
     "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Sumo%2BDeadlift"
+    "image": "https://wger.de/media/exercise-images/191/sumo-deadlift-1.png"
   },
   {
     "id": "113",
@@ -901,7 +901,7 @@
     "category": "Back",
     "bodyPart": "Lower Back",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Superman"
+    "image": "https://wger.de/media/exercise-images/143/superman-1.png"
   },
   {
     "id": "114",
@@ -909,7 +909,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=T-Bar%2BRow"
+    "image": "https://wger.de/media/exercise-images/192/t-bar-row-1.png"
   },
   {
     "id": "115",
@@ -917,7 +917,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Thruster"
+    "image": "https://wger.de/media/exercise-images/193/thrusters-1.png"
   },
   {
     "id": "116",
@@ -925,7 +925,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Machine",
-    "image": "https://dummyimage.com/400x300/3498db/ffffff&text=Treadmill"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "117",
@@ -933,7 +933,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Tricep%2BDip"
+    "image": "https://wger.de/media/exercise-images/82/Bench-dips-1.png"
   },
   {
     "id": "118",
@@ -941,7 +941,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Cable",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Tricep%2BPushdown"
+    "image": "https://wger.de/media/exercise-images/159/tricep-pushdown-1.png"
   },
   {
     "id": "119",
@@ -949,7 +949,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Kettlebell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Turkish%2BGet%2BUp"
+    "image": "https://wger.de/media/exercise-images/194/turkish-getup-1.png"
   },
   {
     "id": "120",
@@ -957,7 +957,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Upright%2BRow"
+    "image": "https://wger.de/media/exercise-images/122/upright-rows-1.png"
   },
   {
     "id": "121",
@@ -965,7 +965,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=V-Up"
+    "image": "https://wger.de/media/exercise-images/144/v-ups-1.png"
   },
   {
     "id": "122",
@@ -973,7 +973,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Medicine Ball",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Wall%2BBall"
+    "image": "https://wger.de/media/exercise-images/195/wall-ball-1.png"
   },
   {
     "id": "123",
@@ -981,7 +981,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Wall%2BSit"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "124",
@@ -989,7 +989,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Wide%2BGrip%2BPull%2BUp"
+    "image": "https://wger.de/media/exercise-images/155/pull-ups-1.png"
   },
   {
     "id": "125",
@@ -997,7 +997,7 @@
     "category": "Core",
     "bodyPart": "Core",
     "equipment": "Kettlebell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Windmill"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "126",
@@ -1005,7 +1005,7 @@
     "category": "Arms",
     "bodyPart": "Forearms",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Wrist%2BCurl"
+    "image": "https://wger.de/media/exercise-images/161/wrist-curl-1.png"
   },
   {
     "id": "127",
@@ -1013,7 +1013,7 @@
     "category": "Flexibility",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
-    "image": "https://dummyimage.com/400x300/2ecc71/ffffff&text=Yoga"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   },
   {
     "id": "128",
@@ -1021,6 +1021,6 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://dummyimage.com/400x300/4a90e2/ffffff&text=Zottman%2BCurl"
+    "image": "https://wger.de/media/exercise-images/85/pushup-1.png"
   }
 ]

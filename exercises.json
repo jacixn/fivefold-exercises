@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Ab Wheel",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Core",
     "equipment": "Ab Wheel",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -18,7 +18,7 @@
   {
     "id": "3",
     "name": "Arnold Press",
-    "category": "Shoulders",
+    "category": "Dumbbell",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -26,7 +26,7 @@
   {
     "id": "4",
     "name": "Around the World",
-    "category": "Chest",
+    "category": "Dumbbell",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
@@ -34,7 +34,7 @@
   {
     "id": "5",
     "name": "Back Extension",
-    "category": "Back",
+    "category": "Reps Only",
     "bodyPart": "Back",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -42,7 +42,7 @@
   {
     "id": "6",
     "name": "Back Extension (Machine)",
-    "category": "Back",
+    "category": "Machine / Other",
     "bodyPart": "Back",
     "equipment": "Machine",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -50,7 +50,7 @@
   {
     "id": "7",
     "name": "Ball Slams",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Core",
     "equipment": "Medicine Ball",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -58,7 +58,7 @@
   {
     "id": "8",
     "name": "Barbell Bench Press",
-    "category": "Chest",
+    "category": "Barbell",
     "bodyPart": "Chest",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
@@ -66,7 +66,7 @@
   {
     "id": "9",
     "name": "Barbell Curl",
-    "category": "Arms",
+    "category": "Barbell",
     "bodyPart": "Biceps",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
@@ -74,7 +74,7 @@
   {
     "id": "10",
     "name": "Barbell Deadlift",
-    "category": "Back",
+    "category": "Barbell",
     "bodyPart": "Back",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -82,7 +82,7 @@
   {
     "id": "11",
     "name": "Barbell Front Squat",
-    "category": "Legs",
+    "category": "Barbell",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -90,7 +90,7 @@
   {
     "id": "12",
     "name": "Barbell Hip Thrust",
-    "category": "Legs",
+    "category": "Barbell",
     "bodyPart": "Glutes",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -98,7 +98,7 @@
   {
     "id": "13",
     "name": "Barbell Lunge",
-    "category": "Legs",
+    "category": "Barbell",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -106,7 +106,7 @@
   {
     "id": "14",
     "name": "Barbell Overhead Press",
-    "category": "Shoulders",
+    "category": "Barbell",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -114,7 +114,7 @@
   {
     "id": "15",
     "name": "Barbell Row",
-    "category": "Back",
+    "category": "Barbell",
     "bodyPart": "Back",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -122,7 +122,7 @@
   {
     "id": "16",
     "name": "Barbell Shrug",
-    "category": "Shoulders",
+    "category": "Barbell",
     "bodyPart": "Traps",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -130,7 +130,7 @@
   {
     "id": "17",
     "name": "Barbell Squat",
-    "category": "Legs",
+    "category": "Barbell",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -138,7 +138,7 @@
   {
     "id": "18",
     "name": "Battle Ropes",
-    "category": "Cardio",
+    "category": "Reps Only",
     "bodyPart": "Full Body",
     "equipment": "Battle Ropes",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -146,7 +146,7 @@
   {
     "id": "19",
     "name": "Bench Dips",
-    "category": "Arms",
+    "category": "Reps Only",
     "bodyPart": "Triceps",
     "equipment": "Bench",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -154,7 +154,7 @@
   {
     "id": "20",
     "name": "Bench Press",
-    "category": "Chest",
+    "category": "Barbell",
     "bodyPart": "Chest",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
@@ -162,7 +162,7 @@
   {
     "id": "21",
     "name": "Bicycle Crunch",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -170,7 +170,7 @@
   {
     "id": "22",
     "name": "Box Jump",
-    "category": "Legs",
+    "category": "Reps Only",
     "bodyPart": "Quadriceps",
     "equipment": "Box",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -178,7 +178,7 @@
   {
     "id": "23",
     "name": "Bulgarian Split Squat",
-    "category": "Legs",
+    "category": "Reps Only",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -186,7 +186,7 @@
   {
     "id": "24",
     "name": "Burpees",
-    "category": "Cardio",
+    "category": "Reps Only",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -194,7 +194,7 @@
   {
     "id": "25",
     "name": "Cable Chest Fly",
-    "category": "Chest",
+    "category": "Machine / Other",
     "bodyPart": "Chest",
     "equipment": "Cable",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -202,7 +202,7 @@
   {
     "id": "26",
     "name": "Cable Crossover",
-    "category": "Chest",
+    "category": "Machine / Other",
     "bodyPart": "Chest",
     "equipment": "Cable",
     "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
@@ -210,7 +210,7 @@
   {
     "id": "27",
     "name": "Cable Curl",
-    "category": "Arms",
+    "category": "Machine / Other",
     "bodyPart": "Biceps",
     "equipment": "Cable",
     "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
@@ -218,7 +218,7 @@
   {
     "id": "28",
     "name": "Cable Face Pull",
-    "category": "Shoulders",
+    "category": "Machine / Other",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -226,7 +226,7 @@
   {
     "id": "29",
     "name": "Cable Lateral Raise",
-    "category": "Shoulders",
+    "category": "Machine / Other",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -234,7 +234,7 @@
   {
     "id": "30",
     "name": "Cable Pulldown",
-    "category": "Back",
+    "category": "Machine / Other",
     "bodyPart": "Lats",
     "equipment": "Cable",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -242,7 +242,7 @@
   {
     "id": "31",
     "name": "Cable Pushdown",
-    "category": "Arms",
+    "category": "Machine / Other",
     "bodyPart": "Triceps",
     "equipment": "Cable",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -250,7 +250,7 @@
   {
     "id": "32",
     "name": "Cable Row",
-    "category": "Back",
+    "category": "Machine / Other",
     "bodyPart": "Back",
     "equipment": "Cable",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -258,7 +258,7 @@
   {
     "id": "33",
     "name": "Calf Raise",
-    "category": "Legs",
+    "category": "Reps Only",
     "bodyPart": "Calves",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -266,7 +266,7 @@
   {
     "id": "34",
     "name": "Chest Dip",
-    "category": "Chest",
+    "category": "Reps Only",
     "bodyPart": "Chest",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
@@ -274,7 +274,7 @@
   {
     "id": "35",
     "name": "Chin Up",
-    "category": "Back",
+    "category": "Reps Only",
     "bodyPart": "Lats",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -282,7 +282,7 @@
   {
     "id": "36",
     "name": "Close Grip Bench Press",
-    "category": "Arms",
+    "category": "Barbell",
     "bodyPart": "Triceps",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
@@ -290,7 +290,7 @@
   {
     "id": "37",
     "name": "Concentration Curl",
-    "category": "Arms",
+    "category": "Dumbbell",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
@@ -298,7 +298,7 @@
   {
     "id": "38",
     "name": "Cross Body Crunch",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -306,7 +306,7 @@
   {
     "id": "39",
     "name": "Crunch",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -314,7 +314,7 @@
   {
     "id": "40",
     "name": "Deadlift",
-    "category": "Back",
+    "category": "Barbell",
     "bodyPart": "Back",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -322,7 +322,7 @@
   {
     "id": "41",
     "name": "Decline Bench Press",
-    "category": "Chest",
+    "category": "Barbell",
     "bodyPart": "Chest",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
@@ -330,7 +330,7 @@
   {
     "id": "42",
     "name": "Decline Crunch",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Abs",
     "equipment": "Bench",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -338,7 +338,7 @@
   {
     "id": "43",
     "name": "Dumbbell Bench Press",
-    "category": "Chest",
+    "category": "Dumbbell",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
@@ -346,7 +346,7 @@
   {
     "id": "44",
     "name": "Dumbbell Curl",
-    "category": "Arms",
+    "category": "Dumbbell",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
@@ -354,7 +354,7 @@
   {
     "id": "45",
     "name": "Dumbbell Fly",
-    "category": "Chest",
+    "category": "Dumbbell",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
@@ -362,7 +362,7 @@
   {
     "id": "46",
     "name": "Dumbbell Front Raise",
-    "category": "Shoulders",
+    "category": "Dumbbell",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -370,7 +370,7 @@
   {
     "id": "47",
     "name": "Dumbbell Lateral Raise",
-    "category": "Shoulders",
+    "category": "Dumbbell",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -378,7 +378,7 @@
   {
     "id": "48",
     "name": "Dumbbell Lunge",
-    "category": "Legs",
+    "category": "Dumbbell",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -386,7 +386,7 @@
   {
     "id": "49",
     "name": "Dumbbell Overhead Press",
-    "category": "Shoulders",
+    "category": "Dumbbell",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -394,7 +394,7 @@
   {
     "id": "50",
     "name": "Dumbbell Pullover",
-    "category": "Back",
+    "category": "Dumbbell",
     "bodyPart": "Lats",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -402,7 +402,7 @@
   {
     "id": "51",
     "name": "Dumbbell Row",
-    "category": "Back",
+    "category": "Dumbbell",
     "bodyPart": "Back",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -410,7 +410,7 @@
   {
     "id": "52",
     "name": "Dumbbell Shrug",
-    "category": "Shoulders",
+    "category": "Dumbbell",
     "bodyPart": "Traps",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -418,7 +418,7 @@
   {
     "id": "53",
     "name": "Dumbbell Squat",
-    "category": "Legs",
+    "category": "Dumbbell",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -426,7 +426,7 @@
   {
     "id": "54",
     "name": "Dumbbell Tricep Extension",
-    "category": "Arms",
+    "category": "Dumbbell",
     "bodyPart": "Triceps",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -442,7 +442,7 @@
   {
     "id": "56",
     "name": "Face Pull",
-    "category": "Shoulders",
+    "category": "Machine / Other",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -450,7 +450,7 @@
   {
     "id": "57",
     "name": "Farmers Walk",
-    "category": "Full Body",
+    "category": "Dumbbell",
     "bodyPart": "Full Body",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -458,7 +458,7 @@
   {
     "id": "58",
     "name": "Flat Bench Leg Raise",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Abs",
     "equipment": "Bench",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -466,7 +466,7 @@
   {
     "id": "59",
     "name": "Flutter Kicks",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -474,7 +474,7 @@
   {
     "id": "60",
     "name": "Front Squat",
-    "category": "Legs",
+    "category": "Barbell",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -482,7 +482,7 @@
   {
     "id": "61",
     "name": "Glute Bridge",
-    "category": "Legs",
+    "category": "Reps Only",
     "bodyPart": "Glutes",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -490,7 +490,7 @@
   {
     "id": "62",
     "name": "Goblet Squat",
-    "category": "Legs",
+    "category": "Dumbbell",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -498,7 +498,7 @@
   {
     "id": "63",
     "name": "Good Morning",
-    "category": "Back",
+    "category": "Barbell",
     "bodyPart": "Lower Back",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -506,7 +506,7 @@
   {
     "id": "64",
     "name": "Hack Squat",
-    "category": "Legs",
+    "category": "Machine / Other",
     "bodyPart": "Quadriceps",
     "equipment": "Machine",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -514,7 +514,7 @@
   {
     "id": "65",
     "name": "Hammer Curl",
-    "category": "Arms",
+    "category": "Dumbbell",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
@@ -522,7 +522,7 @@
   {
     "id": "66",
     "name": "Hanging Knee Raise",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -530,7 +530,7 @@
   {
     "id": "67",
     "name": "Hanging Leg Raise",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -546,7 +546,7 @@
   {
     "id": "69",
     "name": "Hip Thrust",
-    "category": "Legs",
+    "category": "Barbell",
     "bodyPart": "Glutes",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -554,7 +554,7 @@
   {
     "id": "70",
     "name": "Incline Bench Press",
-    "category": "Chest",
+    "category": "Barbell",
     "bodyPart": "Chest",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
@@ -562,7 +562,7 @@
   {
     "id": "71",
     "name": "Incline Dumbbell Curl",
-    "category": "Arms",
+    "category": "Dumbbell",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -570,7 +570,7 @@
   {
     "id": "72",
     "name": "Incline Dumbbell Press",
-    "category": "Chest",
+    "category": "Dumbbell",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
@@ -586,7 +586,7 @@
   {
     "id": "74",
     "name": "Jump Squat",
-    "category": "Legs",
+    "category": "Reps Only",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -594,7 +594,7 @@
   {
     "id": "75",
     "name": "Jumping Jacks",
-    "category": "Cardio",
+    "category": "Reps Only",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -602,7 +602,7 @@
   {
     "id": "76",
     "name": "Kettlebell Swing",
-    "category": "Full Body",
+    "category": "Machine / Other",
     "bodyPart": "Full Body",
     "equipment": "Kettlebell",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -610,7 +610,7 @@
   {
     "id": "77",
     "name": "Knee Raise",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -618,7 +618,7 @@
   {
     "id": "78",
     "name": "Lat Pulldown",
-    "category": "Back",
+    "category": "Machine / Other",
     "bodyPart": "Lats",
     "equipment": "Cable",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -626,7 +626,7 @@
   {
     "id": "79",
     "name": "Lateral Raise",
-    "category": "Shoulders",
+    "category": "Dumbbell",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -634,7 +634,7 @@
   {
     "id": "80",
     "name": "Leg Curl",
-    "category": "Legs",
+    "category": "Machine / Other",
     "bodyPart": "Hamstrings",
     "equipment": "Machine",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -642,7 +642,7 @@
   {
     "id": "81",
     "name": "Leg Extension",
-    "category": "Legs",
+    "category": "Machine / Other",
     "bodyPart": "Quadriceps",
     "equipment": "Machine",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -650,7 +650,7 @@
   {
     "id": "82",
     "name": "Leg Press",
-    "category": "Legs",
+    "category": "Machine / Other",
     "bodyPart": "Quadriceps",
     "equipment": "Machine",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -658,7 +658,7 @@
   {
     "id": "83",
     "name": "Leg Raise",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -666,7 +666,7 @@
   {
     "id": "84",
     "name": "Lunge",
-    "category": "Legs",
+    "category": "Reps Only",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -674,7 +674,7 @@
   {
     "id": "85",
     "name": "Mountain Climbers",
-    "category": "Cardio",
+    "category": "Reps Only",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -682,7 +682,7 @@
   {
     "id": "86",
     "name": "Overhead Press",
-    "category": "Shoulders",
+    "category": "Barbell",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -690,7 +690,7 @@
   {
     "id": "87",
     "name": "Pec Deck",
-    "category": "Chest",
+    "category": "Machine / Other",
     "bodyPart": "Chest",
     "equipment": "Machine",
     "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
@@ -698,7 +698,7 @@
   {
     "id": "88",
     "name": "Pistol Squat",
-    "category": "Legs",
+    "category": "Reps Only",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -706,7 +706,7 @@
   {
     "id": "89",
     "name": "Plank",
-    "category": "Core",
+    "category": "Duration",
     "bodyPart": "Core",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -714,7 +714,7 @@
   {
     "id": "90",
     "name": "Power Clean",
-    "category": "Full Body",
+    "category": "Barbell",
     "bodyPart": "Full Body",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -722,7 +722,7 @@
   {
     "id": "91",
     "name": "Preacher Curl",
-    "category": "Arms",
+    "category": "Barbell",
     "bodyPart": "Biceps",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
@@ -730,7 +730,7 @@
   {
     "id": "92",
     "name": "Pull Up",
-    "category": "Back",
+    "category": "Reps Only",
     "bodyPart": "Lats",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -738,7 +738,7 @@
   {
     "id": "93",
     "name": "Push Press",
-    "category": "Shoulders",
+    "category": "Barbell",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -746,7 +746,7 @@
   {
     "id": "94",
     "name": "Push Up",
-    "category": "Chest",
+    "category": "Reps Only",
     "bodyPart": "Chest",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=400&fit=crop"
@@ -754,7 +754,7 @@
   {
     "id": "95",
     "name": "Reverse Crunch",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -762,7 +762,7 @@
   {
     "id": "96",
     "name": "Reverse Fly",
-    "category": "Shoulders",
+    "category": "Dumbbell",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -770,7 +770,7 @@
   {
     "id": "97",
     "name": "Romanian Deadlift",
-    "category": "Legs",
+    "category": "Barbell",
     "bodyPart": "Hamstrings",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -786,7 +786,7 @@
   {
     "id": "99",
     "name": "Russian Twist",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -794,7 +794,7 @@
   {
     "id": "100",
     "name": "Seated Cable Row",
-    "category": "Back",
+    "category": "Machine / Other",
     "bodyPart": "Back",
     "equipment": "Cable",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -802,7 +802,7 @@
   {
     "id": "101",
     "name": "Seated Calf Raise",
-    "category": "Legs",
+    "category": "Machine / Other",
     "bodyPart": "Calves",
     "equipment": "Machine",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -810,7 +810,7 @@
   {
     "id": "102",
     "name": "Shoulder Press Machine",
-    "category": "Shoulders",
+    "category": "Machine / Other",
     "bodyPart": "Shoulders",
     "equipment": "Machine",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -818,7 +818,7 @@
   {
     "id": "103",
     "name": "Side Plank",
-    "category": "Core",
+    "category": "Duration",
     "bodyPart": "Core",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -826,7 +826,7 @@
   {
     "id": "104",
     "name": "Sit Up",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -834,7 +834,7 @@
   {
     "id": "105",
     "name": "Skull Crusher",
-    "category": "Arms",
+    "category": "Barbell",
     "bodyPart": "Triceps",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
@@ -842,7 +842,7 @@
   {
     "id": "106",
     "name": "Smith Machine Bench Press",
-    "category": "Chest",
+    "category": "Machine / Other",
     "bodyPart": "Chest",
     "equipment": "Smith Machine",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -850,7 +850,7 @@
   {
     "id": "107",
     "name": "Smith Machine Squat",
-    "category": "Legs",
+    "category": "Machine / Other",
     "bodyPart": "Quadriceps",
     "equipment": "Smith Machine",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -858,7 +858,7 @@
   {
     "id": "108",
     "name": "Squat",
-    "category": "Legs",
+    "category": "Reps Only",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -866,7 +866,7 @@
   {
     "id": "109",
     "name": "Standing Calf Raise",
-    "category": "Legs",
+    "category": "Reps Only",
     "bodyPart": "Calves",
     "equipment": "Machine",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -874,7 +874,7 @@
   {
     "id": "110",
     "name": "Step Up",
-    "category": "Legs",
+    "category": "Reps Only",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -882,7 +882,7 @@
   {
     "id": "111",
     "name": "Stiff Leg Deadlift",
-    "category": "Legs",
+    "category": "Barbell",
     "bodyPart": "Hamstrings",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -890,7 +890,7 @@
   {
     "id": "112",
     "name": "Sumo Deadlift",
-    "category": "Legs",
+    "category": "Barbell",
     "bodyPart": "Hamstrings",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -898,7 +898,7 @@
   {
     "id": "113",
     "name": "Superman",
-    "category": "Back",
+    "category": "Reps Only",
     "bodyPart": "Lower Back",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -906,7 +906,7 @@
   {
     "id": "114",
     "name": "T-Bar Row",
-    "category": "Back",
+    "category": "Barbell",
     "bodyPart": "Back",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -914,7 +914,7 @@
   {
     "id": "115",
     "name": "Thruster",
-    "category": "Full Body",
+    "category": "Barbell",
     "bodyPart": "Full Body",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -922,7 +922,7 @@
   {
     "id": "116",
     "name": "Treadmill",
-    "category": "Cardio",
+    "category": "Machine / Other",
     "bodyPart": "Cardio",
     "equipment": "Machine",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -930,7 +930,7 @@
   {
     "id": "117",
     "name": "Tricep Dip",
-    "category": "Arms",
+    "category": "Reps Only",
     "bodyPart": "Triceps",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
@@ -938,7 +938,7 @@
   {
     "id": "118",
     "name": "Tricep Pushdown",
-    "category": "Arms",
+    "category": "Machine / Other",
     "bodyPart": "Triceps",
     "equipment": "Cable",
     "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
@@ -946,7 +946,7 @@
   {
     "id": "119",
     "name": "Turkish Get Up",
-    "category": "Full Body",
+    "category": "Machine / Other",
     "bodyPart": "Full Body",
     "equipment": "Kettlebell",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -954,7 +954,7 @@
   {
     "id": "120",
     "name": "Upright Row",
-    "category": "Shoulders",
+    "category": "Barbell",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -962,7 +962,7 @@
   {
     "id": "121",
     "name": "V-Up",
-    "category": "Core",
+    "category": "Reps Only",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -970,7 +970,7 @@
   {
     "id": "122",
     "name": "Wall Ball",
-    "category": "Full Body",
+    "category": "Machine / Other",
     "bodyPart": "Full Body",
     "equipment": "Medicine Ball",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -978,7 +978,7 @@
   {
     "id": "123",
     "name": "Wall Sit",
-    "category": "Legs",
+    "category": "Duration",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -986,7 +986,7 @@
   {
     "id": "124",
     "name": "Wide Grip Pull Up",
-    "category": "Back",
+    "category": "Reps Only",
     "bodyPart": "Lats",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400&h=400&fit=crop"
@@ -994,7 +994,7 @@
   {
     "id": "125",
     "name": "Windmill",
-    "category": "Core",
+    "category": "Machine / Other",
     "bodyPart": "Core",
     "equipment": "Kettlebell",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -1002,7 +1002,7 @@
   {
     "id": "126",
     "name": "Wrist Curl",
-    "category": "Arms",
+    "category": "Dumbbell",
     "bodyPart": "Forearms",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400&h=400&fit=crop"
@@ -1010,7 +1010,7 @@
   {
     "id": "127",
     "name": "Yoga",
-    "category": "Flexibility",
+    "category": "Reps Only",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=400&fit=crop"
@@ -1018,7 +1018,7 @@
   {
     "id": "128",
     "name": "Zottman Curl",
-    "category": "Arms",
+    "category": "Dumbbell",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"

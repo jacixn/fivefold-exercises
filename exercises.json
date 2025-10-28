@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Ab Wheel",
-    "category": "Reps Only",
+    "category": "Machine / Other",
     "bodyPart": "Core",
     "equipment": "Ab Wheel",
     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
@@ -50,7 +50,7 @@
   {
     "id": "7",
     "name": "Ball Slams",
-    "category": "Reps Only",
+    "category": "Machine / Other",
     "bodyPart": "Core",
     "equipment": "Medicine Ball",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -138,7 +138,7 @@
   {
     "id": "18",
     "name": "Battle Ropes",
-    "category": "Cardio",
+    "category": "Machine / Other",
     "bodyPart": "Full Body",
     "equipment": "Battle Ropes",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"

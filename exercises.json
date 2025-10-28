@@ -1,0 +1,1027 @@
+[
+  {
+    "id": "1",
+    "name": "Ab Wheel",
+    "category": "Core",
+    "bodyPart": "Core",
+    "equipment": "Ab Wheel",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0001.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Aerobics",
+    "category": "Cardio",
+    "bodyPart": "Cardio",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/3220.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Arnold Press (Dumbbell)",
+    "category": "Shoulders",
+    "bodyPart": "Shoulders",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0025.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Around the World",
+    "category": "Chest",
+    "bodyPart": "Chest",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0027.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Back Extension",
+    "category": "Back",
+    "bodyPart": "Back",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/3297.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Back Extension (Machine)",
+    "category": "Back",
+    "bodyPart": "Back",
+    "equipment": "Machine",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0030.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Ball Slams",
+    "category": "Core",
+    "bodyPart": "Core",
+    "equipment": "Medicine Ball",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0040.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Barbell Bench Press",
+    "category": "Chest",
+    "bodyPart": "Chest",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0025.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Barbell Curl",
+    "category": "Arms",
+    "bodyPart": "Biceps",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0033.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Barbell Deadlift",
+    "category": "Back",
+    "bodyPart": "Back",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0032.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Barbell Front Squat",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0033.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Barbell Hip Thrust",
+    "category": "Legs",
+    "bodyPart": "Glutes",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0034.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Barbell Lunge",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0042.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Barbell Overhead Press",
+    "category": "Shoulders",
+    "bodyPart": "Shoulders",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0091.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Barbell Row",
+    "category": "Back",
+    "bodyPart": "Back",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0027.jpg"
+  },
+  {
+    "id": "16",
+    "name": "Barbell Shrug",
+    "category": "Shoulders",
+    "bodyPart": "Traps",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0029.jpg"
+  },
+  {
+    "id": "17",
+    "name": "Barbell Squat",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0043.jpg"
+  },
+  {
+    "id": "18",
+    "name": "Battle Ropes",
+    "category": "Cardio",
+    "bodyPart": "Full Body",
+    "equipment": "Battle Ropes",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0050.jpg"
+  },
+  {
+    "id": "19",
+    "name": "Bench Dips",
+    "category": "Arms",
+    "bodyPart": "Triceps",
+    "equipment": "Bench",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0038.jpg"
+  },
+  {
+    "id": "20",
+    "name": "Bench Press",
+    "category": "Chest",
+    "bodyPart": "Chest",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0025.jpg"
+  },
+  {
+    "id": "21",
+    "name": "Bicycle Crunch",
+    "category": "Core",
+    "bodyPart": "Abs",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0027.jpg"
+  },
+  {
+    "id": "22",
+    "name": "Box Jump",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Box",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0070.jpg"
+  },
+  {
+    "id": "23",
+    "name": "Bulgarian Split Squat",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0089.jpg"
+  },
+  {
+    "id": "24",
+    "name": "Burpees",
+    "category": "Cardio",
+    "bodyPart": "Full Body",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0054.jpg"
+  },
+  {
+    "id": "25",
+    "name": "Cable Chest Fly",
+    "category": "Chest",
+    "bodyPart": "Chest",
+    "equipment": "Cable",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0091.jpg"
+  },
+  {
+    "id": "26",
+    "name": "Cable Crossover",
+    "category": "Chest",
+    "bodyPart": "Chest",
+    "equipment": "Cable",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0095.jpg"
+  },
+  {
+    "id": "27",
+    "name": "Cable Curl",
+    "category": "Arms",
+    "bodyPart": "Biceps",
+    "equipment": "Cable",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0101.jpg"
+  },
+  {
+    "id": "28",
+    "name": "Cable Face Pull",
+    "category": "Shoulders",
+    "bodyPart": "Shoulders",
+    "equipment": "Cable",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0158.jpg"
+  },
+  {
+    "id": "29",
+    "name": "Cable Lateral Raise",
+    "category": "Shoulders",
+    "bodyPart": "Shoulders",
+    "equipment": "Cable",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0189.jpg"
+  },
+  {
+    "id": "30",
+    "name": "Cable Pulldown",
+    "category": "Back",
+    "bodyPart": "Lats",
+    "equipment": "Cable",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0194.jpg"
+  },
+  {
+    "id": "31",
+    "name": "Cable Pushdown",
+    "category": "Arms",
+    "bodyPart": "Triceps",
+    "equipment": "Cable",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0196.jpg"
+  },
+  {
+    "id": "32",
+    "name": "Cable Row",
+    "category": "Back",
+    "bodyPart": "Back",
+    "equipment": "Cable",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0202.jpg"
+  },
+  {
+    "id": "33",
+    "name": "Calf Raise",
+    "category": "Legs",
+    "bodyPart": "Calves",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/1373.jpg"
+  },
+  {
+    "id": "34",
+    "name": "Chest Dip",
+    "category": "Chest",
+    "bodyPart": "Chest",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0255.jpg"
+  },
+  {
+    "id": "35",
+    "name": "Chin Up",
+    "category": "Back",
+    "bodyPart": "Lats",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0257.jpg"
+  },
+  {
+    "id": "36",
+    "name": "Close Grip Bench Press",
+    "category": "Arms",
+    "bodyPart": "Triceps",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0258.jpg"
+  },
+  {
+    "id": "37",
+    "name": "Concentration Curl",
+    "category": "Arms",
+    "bodyPart": "Biceps",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0261.jpg"
+  },
+  {
+    "id": "38",
+    "name": "Cross Body Crunch",
+    "category": "Core",
+    "bodyPart": "Abs",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0274.jpg"
+  },
+  {
+    "id": "39",
+    "name": "Crunch",
+    "category": "Core",
+    "bodyPart": "Abs",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0285.jpg"
+  },
+  {
+    "id": "40",
+    "name": "Deadlift",
+    "category": "Back",
+    "bodyPart": "Back",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0032.jpg"
+  },
+  {
+    "id": "41",
+    "name": "Decline Bench Press",
+    "category": "Chest",
+    "bodyPart": "Chest",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0289.jpg"
+  },
+  {
+    "id": "42",
+    "name": "Decline Crunch",
+    "category": "Core",
+    "bodyPart": "Abs",
+    "equipment": "Bench",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0292.jpg"
+  },
+  {
+    "id": "43",
+    "name": "Dumbbell Bench Press",
+    "category": "Chest",
+    "bodyPart": "Chest",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0293.jpg"
+  },
+  {
+    "id": "44",
+    "name": "Dumbbell Curl",
+    "category": "Arms",
+    "bodyPart": "Biceps",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0320.jpg"
+  },
+  {
+    "id": "45",
+    "name": "Dumbbell Fly",
+    "category": "Chest",
+    "bodyPart": "Chest",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0329.jpg"
+  },
+  {
+    "id": "46",
+    "name": "Dumbbell Front Raise",
+    "category": "Shoulders",
+    "bodyPart": "Shoulders",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0334.jpg"
+  },
+  {
+    "id": "47",
+    "name": "Dumbbell Lateral Raise",
+    "category": "Shoulders",
+    "bodyPart": "Shoulders",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0359.jpg"
+  },
+  {
+    "id": "48",
+    "name": "Dumbbell Lunge",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0362.jpg"
+  },
+  {
+    "id": "49",
+    "name": "Dumbbell Overhead Press",
+    "category": "Shoulders",
+    "bodyPart": "Shoulders",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0386.jpg"
+  },
+  {
+    "id": "50",
+    "name": "Dumbbell Pullover",
+    "category": "Back",
+    "bodyPart": "Lats",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0391.jpg"
+  },
+  {
+    "id": "51",
+    "name": "Dumbbell Row",
+    "category": "Back",
+    "bodyPart": "Back",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0405.jpg"
+  },
+  {
+    "id": "52",
+    "name": "Dumbbell Shrug",
+    "category": "Shoulders",
+    "bodyPart": "Traps",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0406.jpg"
+  },
+  {
+    "id": "53",
+    "name": "Dumbbell Squat",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0408.jpg"
+  },
+  {
+    "id": "54",
+    "name": "Dumbbell Tricep Extension",
+    "category": "Arms",
+    "bodyPart": "Triceps",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0419.jpg"
+  },
+  {
+    "id": "55",
+    "name": "Elliptical",
+    "category": "Cardio",
+    "bodyPart": "Cardio",
+    "equipment": "Machine",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/2331.jpg"
+  },
+  {
+    "id": "56",
+    "name": "Face Pull",
+    "category": "Shoulders",
+    "bodyPart": "Shoulders",
+    "equipment": "Cable",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0158.jpg"
+  },
+  {
+    "id": "57",
+    "name": "Farmers Walk",
+    "category": "Full Body",
+    "bodyPart": "Full Body",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/1342.jpg"
+  },
+  {
+    "id": "58",
+    "name": "Flat Bench Leg Raise",
+    "category": "Core",
+    "bodyPart": "Abs",
+    "equipment": "Bench",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/1406.jpg"
+  },
+  {
+    "id": "59",
+    "name": "Flutter Kicks",
+    "category": "Core",
+    "bodyPart": "Abs",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0458.jpg"
+  },
+  {
+    "id": "60",
+    "name": "Front Squat",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0465.jpg"
+  },
+  {
+    "id": "61",
+    "name": "Glute Bridge",
+    "category": "Legs",
+    "bodyPart": "Glutes",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/3193.jpg"
+  },
+  {
+    "id": "62",
+    "name": "Goblet Squat",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0495.jpg"
+  },
+  {
+    "id": "63",
+    "name": "Good Morning",
+    "category": "Back",
+    "bodyPart": "Lower Back",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0494.jpg"
+  },
+  {
+    "id": "64",
+    "name": "Hack Squat",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Machine",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/1422.jpg"
+  },
+  {
+    "id": "65",
+    "name": "Hammer Curl",
+    "category": "Arms",
+    "bodyPart": "Biceps",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0498.jpg"
+  },
+  {
+    "id": "66",
+    "name": "Hanging Knee Raise",
+    "category": "Core",
+    "bodyPart": "Abs",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/1427.jpg"
+  },
+  {
+    "id": "67",
+    "name": "Hanging Leg Raise",
+    "category": "Core",
+    "bodyPart": "Abs",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0483.jpg"
+  },
+  {
+    "id": "68",
+    "name": "High Knees",
+    "category": "Cardio",
+    "bodyPart": "Cardio",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0501.jpg"
+  },
+  {
+    "id": "69",
+    "name": "Hip Thrust",
+    "category": "Legs",
+    "bodyPart": "Glutes",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/3194.jpg"
+  },
+  {
+    "id": "70",
+    "name": "Incline Bench Press",
+    "category": "Chest",
+    "bodyPart": "Chest",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0543.jpg"
+  },
+  {
+    "id": "71",
+    "name": "Incline Dumbbell Curl",
+    "category": "Arms",
+    "bodyPart": "Biceps",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0546.jpg"
+  },
+  {
+    "id": "72",
+    "name": "Incline Dumbbell Press",
+    "category": "Chest",
+    "bodyPart": "Chest",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0547.jpg"
+  },
+  {
+    "id": "73",
+    "name": "Jump Rope",
+    "category": "Cardio",
+    "bodyPart": "Cardio",
+    "equipment": "Jump Rope",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0564.jpg"
+  },
+  {
+    "id": "74",
+    "name": "Jump Squat",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0565.jpg"
+  },
+  {
+    "id": "75",
+    "name": "Jumping Jacks",
+    "category": "Cardio",
+    "bodyPart": "Cardio",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0567.jpg"
+  },
+  {
+    "id": "76",
+    "name": "Kettlebell Swing",
+    "category": "Full Body",
+    "bodyPart": "Full Body",
+    "equipment": "Kettlebell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0596.jpg"
+  },
+  {
+    "id": "77",
+    "name": "Knee Raise",
+    "category": "Core",
+    "bodyPart": "Abs",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/1456.jpg"
+  },
+  {
+    "id": "78",
+    "name": "Lat Pulldown",
+    "category": "Back",
+    "bodyPart": "Lats",
+    "equipment": "Cable",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0606.jpg"
+  },
+  {
+    "id": "79",
+    "name": "Lateral Raise",
+    "category": "Shoulders",
+    "bodyPart": "Shoulders",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0359.jpg"
+  },
+  {
+    "id": "80",
+    "name": "Leg Curl",
+    "category": "Legs",
+    "bodyPart": "Hamstrings",
+    "equipment": "Machine",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0599.jpg"
+  },
+  {
+    "id": "81",
+    "name": "Leg Extension",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Machine",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0589.jpg"
+  },
+  {
+    "id": "82",
+    "name": "Leg Press",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Machine",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0604.jpg"
+  },
+  {
+    "id": "83",
+    "name": "Leg Raise",
+    "category": "Core",
+    "bodyPart": "Abs",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0592.jpg"
+  },
+  {
+    "id": "84",
+    "name": "Lunge",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0619.jpg"
+  },
+  {
+    "id": "85",
+    "name": "Mountain Climbers",
+    "category": "Cardio",
+    "bodyPart": "Full Body",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0636.jpg"
+  },
+  {
+    "id": "86",
+    "name": "Overhead Press",
+    "category": "Shoulders",
+    "bodyPart": "Shoulders",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0091.jpg"
+  },
+  {
+    "id": "87",
+    "name": "Pec Deck",
+    "category": "Chest",
+    "bodyPart": "Chest",
+    "equipment": "Machine",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0654.jpg"
+  },
+  {
+    "id": "88",
+    "name": "Pistol Squat",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0672.jpg"
+  },
+  {
+    "id": "89",
+    "name": "Plank",
+    "category": "Core",
+    "bodyPart": "Core",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0673.jpg"
+  },
+  {
+    "id": "90",
+    "name": "Power Clean",
+    "category": "Full Body",
+    "bodyPart": "Full Body",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0685.jpg"
+  },
+  {
+    "id": "91",
+    "name": "Preacher Curl",
+    "category": "Arms",
+    "bodyPart": "Biceps",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0688.jpg"
+  },
+  {
+    "id": "92",
+    "name": "Pull Up",
+    "category": "Back",
+    "bodyPart": "Lats",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0689.jpg"
+  },
+  {
+    "id": "93",
+    "name": "Push Press",
+    "category": "Shoulders",
+    "bodyPart": "Shoulders",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0692.jpg"
+  },
+  {
+    "id": "94",
+    "name": "Push Up",
+    "category": "Chest",
+    "bodyPart": "Chest",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0662.jpg"
+  },
+  {
+    "id": "95",
+    "name": "Reverse Crunch",
+    "category": "Core",
+    "bodyPart": "Abs",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0716.jpg"
+  },
+  {
+    "id": "96",
+    "name": "Reverse Fly",
+    "category": "Shoulders",
+    "bodyPart": "Shoulders",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0374.jpg"
+  },
+  {
+    "id": "97",
+    "name": "Romanian Deadlift",
+    "category": "Legs",
+    "bodyPart": "Hamstrings",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0739.jpg"
+  },
+  {
+    "id": "98",
+    "name": "Rowing Machine",
+    "category": "Cardio",
+    "bodyPart": "Cardio",
+    "equipment": "Machine",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0750.jpg"
+  },
+  {
+    "id": "99",
+    "name": "Russian Twist",
+    "category": "Core",
+    "bodyPart": "Abs",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0757.jpg"
+  },
+  {
+    "id": "100",
+    "name": "Seated Cable Row",
+    "category": "Back",
+    "bodyPart": "Back",
+    "equipment": "Cable",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0779.jpg"
+  },
+  {
+    "id": "101",
+    "name": "Seated Calf Raise",
+    "category": "Legs",
+    "bodyPart": "Calves",
+    "equipment": "Machine",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/1373.jpg"
+  },
+  {
+    "id": "102",
+    "name": "Shoulder Press Machine",
+    "category": "Shoulders",
+    "bodyPart": "Shoulders",
+    "equipment": "Machine",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0806.jpg"
+  },
+  {
+    "id": "103",
+    "name": "Side Plank",
+    "category": "Core",
+    "bodyPart": "Core",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0823.jpg"
+  },
+  {
+    "id": "104",
+    "name": "Sit Up",
+    "category": "Core",
+    "bodyPart": "Abs",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0833.jpg"
+  },
+  {
+    "id": "105",
+    "name": "Skull Crusher",
+    "category": "Arms",
+    "bodyPart": "Triceps",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/1683.jpg"
+  },
+  {
+    "id": "106",
+    "name": "Smith Machine Bench Press",
+    "category": "Chest",
+    "bodyPart": "Chest",
+    "equipment": "Smith Machine",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0841.jpg"
+  },
+  {
+    "id": "107",
+    "name": "Smith Machine Squat",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Smith Machine",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0853.jpg"
+  },
+  {
+    "id": "108",
+    "name": "Squat",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0877.jpg"
+  },
+  {
+    "id": "109",
+    "name": "Standing Calf Raise",
+    "category": "Legs",
+    "bodyPart": "Calves",
+    "equipment": "Machine",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0888.jpg"
+  },
+  {
+    "id": "110",
+    "name": "Step Up",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0898.jpg"
+  },
+  {
+    "id": "111",
+    "name": "Stiff Leg Deadlift",
+    "category": "Legs",
+    "bodyPart": "Hamstrings",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0900.jpg"
+  },
+  {
+    "id": "112",
+    "name": "Sumo Deadlift",
+    "category": "Legs",
+    "bodyPart": "Hamstrings",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0911.jpg"
+  },
+  {
+    "id": "113",
+    "name": "Superman",
+    "category": "Back",
+    "bodyPart": "Lower Back",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0912.jpg"
+  },
+  {
+    "id": "114",
+    "name": "T-Bar Row",
+    "category": "Back",
+    "bodyPart": "Back",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0914.jpg"
+  },
+  {
+    "id": "115",
+    "name": "Thruster",
+    "category": "Full Body",
+    "bodyPart": "Full Body",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/3231.jpg"
+  },
+  {
+    "id": "116",
+    "name": "Treadmill",
+    "category": "Cardio",
+    "bodyPart": "Cardio",
+    "equipment": "Machine",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0946.jpg"
+  },
+  {
+    "id": "117",
+    "name": "Tricep Dip",
+    "category": "Arms",
+    "bodyPart": "Triceps",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0957.jpg"
+  },
+  {
+    "id": "118",
+    "name": "Tricep Pushdown",
+    "category": "Arms",
+    "bodyPart": "Triceps",
+    "equipment": "Cable",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0196.jpg"
+  },
+  {
+    "id": "119",
+    "name": "Turkish Get Up",
+    "category": "Full Body",
+    "bodyPart": "Full Body",
+    "equipment": "Kettlebell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0966.jpg"
+  },
+  {
+    "id": "120",
+    "name": "Upright Row",
+    "category": "Shoulders",
+    "bodyPart": "Shoulders",
+    "equipment": "Barbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0972.jpg"
+  },
+  {
+    "id": "121",
+    "name": "V-Up",
+    "category": "Core",
+    "bodyPart": "Abs",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0982.jpg"
+  },
+  {
+    "id": "122",
+    "name": "Wall Ball",
+    "category": "Full Body",
+    "bodyPart": "Full Body",
+    "equipment": "Medicine Ball",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/1022.jpg"
+  },
+  {
+    "id": "123",
+    "name": "Wall Sit",
+    "category": "Legs",
+    "bodyPart": "Quadriceps",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/0983.jpg"
+  },
+  {
+    "id": "124",
+    "name": "Wide Grip Pull Up",
+    "category": "Back",
+    "bodyPart": "Lats",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/1018.jpg"
+  },
+  {
+    "id": "125",
+    "name": "Windmill",
+    "category": "Core",
+    "bodyPart": "Core",
+    "equipment": "Kettlebell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/1019.jpg"
+  },
+  {
+    "id": "126",
+    "name": "Wrist Curl",
+    "category": "Arms",
+    "bodyPart": "Forearms",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/1428.jpg"
+  },
+  {
+    "id": "127",
+    "name": "Yoga",
+    "category": "Flexibility",
+    "bodyPart": "Full Body",
+    "equipment": "Body Weight",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/3304.jpg"
+  },
+  {
+    "id": "128",
+    "name": "Zottman Curl",
+    "category": "Arms",
+    "bodyPart": "Biceps",
+    "equipment": "Dumbbell",
+    "image": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/1026.jpg"
+  }
+]
+

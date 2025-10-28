@@ -5,7 +5,7 @@
     "category": "Core",
     "bodyPart": "Core",
     "equipment": "Ab Wheel",
-    "image": "https://v2.exercisedb.io/image/R6b3gmGkYq9Cxf"
+    "image": "https://api.exercisedb.io/v2/exercises/0001/image"
   },
   {
     "id": "2",
@@ -13,15 +13,15 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/t5YuYLQGYUhfI3"
+    "image": "https://api.exercisedb.io/v2/exercises/3220/image"
   },
   {
     "id": "3",
-    "name": "Arnold Press (Dumbbell)",
+    "name": "Arnold Press",
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/4-MFLxuCiU4vwh"
+    "image": "https://api.exercisedb.io/v2/exercises/0025/image"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/dYxIGNs1Z1rIWy"
+    "image": "https://api.exercisedb.io/v2/exercises/1304/image"
   },
   {
     "id": "5",
@@ -37,7 +37,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/6D5GNfeFAE7Kf6"
+    "image": "https://api.exercisedb.io/v2/exercises/3297/image"
   },
   {
     "id": "6",
@@ -45,7 +45,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Machine",
-    "image": "https://v2.exercisedb.io/image/kPKiKj4PYGcWtx"
+    "image": "https://api.exercisedb.io/v2/exercises/0030/image"
   },
   {
     "id": "7",
@@ -53,7 +53,7 @@
     "category": "Core",
     "bodyPart": "Core",
     "equipment": "Medicine Ball",
-    "image": "https://v2.exercisedb.io/image/Aqu0WXK4qHQ4wI"
+    "image": "https://api.exercisedb.io/v2/exercises/0040/image"
   },
   {
     "id": "8",
@@ -61,7 +61,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/LFEkU7FBhtl1gh"
+    "image": "https://api.exercisedb.io/v2/exercises/0025/image"
   },
   {
     "id": "9",
@@ -69,7 +69,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/VJz0Ip9kOCGFLs"
+    "image": "https://api.exercisedb.io/v2/exercises/0033/image"
   },
   {
     "id": "10",
@@ -77,7 +77,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/iFbLv4rI0pnl-L"
+    "image": "https://api.exercisedb.io/v2/exercises/0032/image"
   },
   {
     "id": "11",
@@ -85,7 +85,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/ufajBJQ3LlL0aB"
+    "image": "https://api.exercisedb.io/v2/exercises/0033/image"
   },
   {
     "id": "12",
@@ -93,7 +93,7 @@
     "category": "Legs",
     "bodyPart": "Glutes",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/r1Gfs-jj2yUlvk"
+    "image": "https://api.exercisedb.io/v2/exercises/0034/image"
   },
   {
     "id": "13",
@@ -101,7 +101,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/kcYcdxaIHuCW6l"
+    "image": "https://api.exercisedb.io/v2/exercises/0042/image"
   },
   {
     "id": "14",
@@ -109,7 +109,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/s5hZDGnq0u3c0K"
+    "image": "https://api.exercisedb.io/v2/exercises/0091/image"
   },
   {
     "id": "15",
@@ -117,7 +117,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/4FsxlYGfDRmUDB"
+    "image": "https://api.exercisedb.io/v2/exercises/0027/image"
   },
   {
     "id": "16",
@@ -125,7 +125,7 @@
     "category": "Shoulders",
     "bodyPart": "Traps",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/JFQn-7LwIl3TlP"
+    "image": "https://api.exercisedb.io/v2/exercises/0029/image"
   },
   {
     "id": "17",
@@ -133,7 +133,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/uVNXu5uh2-h6Gv"
+    "image": "https://api.exercisedb.io/v2/exercises/0043/image"
   },
   {
     "id": "18",
@@ -141,7 +141,7 @@
     "category": "Cardio",
     "bodyPart": "Full Body",
     "equipment": "Battle Ropes",
-    "image": "https://v2.exercisedb.io/image/F3r8r8V7EpVPjp"
+    "image": "https://api.exercisedb.io/v2/exercises/0050/image"
   },
   {
     "id": "19",
@@ -149,7 +149,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Bench",
-    "image": "https://v2.exercisedb.io/image/LJ8JHF8LpTlaSr"
+    "image": "https://api.exercisedb.io/v2/exercises/0038/image"
   },
   {
     "id": "20",
@@ -157,7 +157,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/LFEkU7FBhtl1gh"
+    "image": "https://api.exercisedb.io/v2/exercises/0025/image"
   },
   {
     "id": "21",
@@ -165,7 +165,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/gCBiOLf-mSYgsr"
+    "image": "https://api.exercisedb.io/v2/exercises/0027/image"
   },
   {
     "id": "22",
@@ -173,7 +173,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Box",
-    "image": "https://v2.exercisedb.io/image/G2KCRzzvVqtAKd"
+    "image": "https://api.exercisedb.io/v2/exercises/0070/image"
   },
   {
     "id": "23",
@@ -181,7 +181,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/ZY3NjZVVNaNB6F"
+    "image": "https://api.exercisedb.io/v2/exercises/0089/image"
   },
   {
     "id": "24",
@@ -189,7 +189,7 @@
     "category": "Cardio",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/Nt-BQe3BdQ0XQf"
+    "image": "https://api.exercisedb.io/v2/exercises/0054/image"
   },
   {
     "id": "25",
@@ -197,7 +197,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Cable",
-    "image": "https://v2.exercisedb.io/image/4L7SypnIKDSFh3"
+    "image": "https://api.exercisedb.io/v2/exercises/0091/image"
   },
   {
     "id": "26",
@@ -205,7 +205,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Cable",
-    "image": "https://v2.exercisedb.io/image/RYUyFIUlZUJsvy"
+    "image": "https://api.exercisedb.io/v2/exercises/0095/image"
   },
   {
     "id": "27",
@@ -213,7 +213,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Cable",
-    "image": "https://v2.exercisedb.io/image/J4z8XwC9WpvB6u"
+    "image": "https://api.exercisedb.io/v2/exercises/0101/image"
   },
   {
     "id": "28",
@@ -221,7 +221,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
-    "image": "https://v2.exercisedb.io/image/Z-RO2vKHWzSLUx"
+    "image": "https://api.exercisedb.io/v2/exercises/0158/image"
   },
   {
     "id": "29",
@@ -229,7 +229,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
-    "image": "https://v2.exercisedb.io/image/xhNpBMRwXSqJ3m"
+    "image": "https://api.exercisedb.io/v2/exercises/0189/image"
   },
   {
     "id": "30",
@@ -237,7 +237,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Cable",
-    "image": "https://v2.exercisedb.io/image/aRJ3VKJDFiF00R"
+    "image": "https://api.exercisedb.io/v2/exercises/0194/image"
   },
   {
     "id": "31",
@@ -245,7 +245,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Cable",
-    "image": "https://v2.exercisedb.io/image/gQOKPkw0eXDPNe"
+    "image": "https://api.exercisedb.io/v2/exercises/0196/image"
   },
   {
     "id": "32",
@@ -253,7 +253,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Cable",
-    "image": "https://v2.exercisedb.io/image/ktXTy8WChvNJ-q"
+    "image": "https://api.exercisedb.io/v2/exercises/0202/image"
   },
   {
     "id": "33",
@@ -261,7 +261,7 @@
     "category": "Legs",
     "bodyPart": "Calves",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/oP-gK52OxSzLSF"
+    "image": "https://api.exercisedb.io/v2/exercises/1373/image"
   },
   {
     "id": "34",
@@ -269,7 +269,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/3Xm-Frd31lDexY"
+    "image": "https://api.exercisedb.io/v2/exercises/0255/image"
   },
   {
     "id": "35",
@@ -277,7 +277,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/JJHZcAoGqLmjXh"
+    "image": "https://api.exercisedb.io/v2/exercises/0257/image"
   },
   {
     "id": "36",
@@ -285,7 +285,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/ghSy2ug8KZMvlO"
+    "image": "https://api.exercisedb.io/v2/exercises/0258/image"
   },
   {
     "id": "37",
@@ -293,7 +293,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/2xXPHy1v-TJ3zq"
+    "image": "https://api.exercisedb.io/v2/exercises/0261/image"
   },
   {
     "id": "38",
@@ -301,7 +301,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/0KHnvS5VPHe5qv"
+    "image": "https://api.exercisedb.io/v2/exercises/0274/image"
   },
   {
     "id": "39",
@@ -309,7 +309,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/nlwfpTiPSsP4FQ"
+    "image": "https://api.exercisedb.io/v2/exercises/0285/image"
   },
   {
     "id": "40",
@@ -317,7 +317,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/iFbLv4rI0pnl-L"
+    "image": "https://api.exercisedb.io/v2/exercises/0032/image"
   },
   {
     "id": "41",
@@ -325,7 +325,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/tLuH8DvZHJ0Hn2"
+    "image": "https://api.exercisedb.io/v2/exercises/0289/image"
   },
   {
     "id": "42",
@@ -333,7 +333,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Bench",
-    "image": "https://v2.exercisedb.io/image/--b3GhGaWU3VwI"
+    "image": "https://api.exercisedb.io/v2/exercises/0292/image"
   },
   {
     "id": "43",
@@ -341,7 +341,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/wy04UZVJp6j4Uo"
+    "image": "https://api.exercisedb.io/v2/exercises/0293/image"
   },
   {
     "id": "44",
@@ -349,7 +349,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/sO6Ju9LjIokwsi"
+    "image": "https://api.exercisedb.io/v2/exercises/0320/image"
   },
   {
     "id": "45",
@@ -357,7 +357,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/AELz-ONbJmdMZg"
+    "image": "https://api.exercisedb.io/v2/exercises/0329/image"
   },
   {
     "id": "46",
@@ -365,7 +365,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/xNiZ1B4RwTi2OY"
+    "image": "https://api.exercisedb.io/v2/exercises/0334/image"
   },
   {
     "id": "47",
@@ -373,7 +373,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/IHqvbNB7-eAV7x"
+    "image": "https://api.exercisedb.io/v2/exercises/0359/image"
   },
   {
     "id": "48",
@@ -381,7 +381,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/Dn5exz3TuWMV7F"
+    "image": "https://api.exercisedb.io/v2/exercises/0362/image"
   },
   {
     "id": "49",
@@ -389,7 +389,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/c5y0n7Qj0wEtbm"
+    "image": "https://api.exercisedb.io/v2/exercises/0386/image"
   },
   {
     "id": "50",
@@ -397,7 +397,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/z7bZ7pPAEKm9Fa"
+    "image": "https://api.exercisedb.io/v2/exercises/0391/image"
   },
   {
     "id": "51",
@@ -405,7 +405,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/jbO5t-L7zcXqMB"
+    "image": "https://api.exercisedb.io/v2/exercises/0405/image"
   },
   {
     "id": "52",
@@ -413,7 +413,7 @@
     "category": "Shoulders",
     "bodyPart": "Traps",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/4V8d5qJOMFTU6o"
+    "image": "https://api.exercisedb.io/v2/exercises/0406/image"
   },
   {
     "id": "53",
@@ -421,7 +421,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/kQ7-YzjjPkSCEL"
+    "image": "https://api.exercisedb.io/v2/exercises/0408/image"
   },
   {
     "id": "54",
@@ -429,7 +429,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/0GNMcIPnv1qhZ9"
+    "image": "https://api.exercisedb.io/v2/exercises/0419/image"
   },
   {
     "id": "55",
@@ -437,7 +437,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Machine",
-    "image": "https://v2.exercisedb.io/image/W5y4IpW4vOu8Qp"
+    "image": "https://api.exercisedb.io/v2/exercises/2331/image"
   },
   {
     "id": "56",
@@ -445,7 +445,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
-    "image": "https://v2.exercisedb.io/image/Z-RO2vKHWzSLUx"
+    "image": "https://api.exercisedb.io/v2/exercises/0158/image"
   },
   {
     "id": "57",
@@ -453,7 +453,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/eSmHpCdVGiGHBV"
+    "image": "https://api.exercisedb.io/v2/exercises/1342/image"
   },
   {
     "id": "58",
@@ -461,7 +461,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Bench",
-    "image": "https://v2.exercisedb.io/image/dJhgK46cW0Mwsw"
+    "image": "https://api.exercisedb.io/v2/exercises/1406/image"
   },
   {
     "id": "59",
@@ -469,7 +469,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/eEWyFKyMhf3FRR"
+    "image": "https://api.exercisedb.io/v2/exercises/0458/image"
   },
   {
     "id": "60",
@@ -477,7 +477,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/ufajBJQ3LlL0aB"
+    "image": "https://api.exercisedb.io/v2/exercises/0465/image"
   },
   {
     "id": "61",
@@ -485,7 +485,7 @@
     "category": "Legs",
     "bodyPart": "Glutes",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/oJxA6eUwHkSUuR"
+    "image": "https://api.exercisedb.io/v2/exercises/3193/image"
   },
   {
     "id": "62",
@@ -493,7 +493,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/uTlWNBZX67hyaV"
+    "image": "https://api.exercisedb.io/v2/exercises/0495/image"
   },
   {
     "id": "63",
@@ -501,7 +501,7 @@
     "category": "Back",
     "bodyPart": "Lower Back",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/MrjFxQGMJYMW7r"
+    "image": "https://api.exercisedb.io/v2/exercises/0494/image"
   },
   {
     "id": "64",
@@ -509,7 +509,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Machine",
-    "image": "https://v2.exercisedb.io/image/fSXdmB68yprgv-"
+    "image": "https://api.exercisedb.io/v2/exercises/1422/image"
   },
   {
     "id": "65",
@@ -517,7 +517,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/K0e6aYhY2EjVJz"
+    "image": "https://api.exercisedb.io/v2/exercises/0498/image"
   },
   {
     "id": "66",
@@ -525,7 +525,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/wBCrPcr5HHDW9x"
+    "image": "https://api.exercisedb.io/v2/exercises/1427/image"
   },
   {
     "id": "67",
@@ -533,7 +533,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/wBCrPcr5HHDW9x"
+    "image": "https://api.exercisedb.io/v2/exercises/0483/image"
   },
   {
     "id": "68",
@@ -541,7 +541,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/kIAzpvTXDzqDI3"
+    "image": "https://api.exercisedb.io/v2/exercises/0501/image"
   },
   {
     "id": "69",
@@ -549,7 +549,7 @@
     "category": "Legs",
     "bodyPart": "Glutes",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/r1Gfs-jj2yUlvk"
+    "image": "https://api.exercisedb.io/v2/exercises/3194/image"
   },
   {
     "id": "70",
@@ -557,7 +557,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/rz8c5UqBJ-gzYA"
+    "image": "https://api.exercisedb.io/v2/exercises/0543/image"
   },
   {
     "id": "71",
@@ -565,7 +565,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/fElIdGJqSy9vYl"
+    "image": "https://api.exercisedb.io/v2/exercises/0546/image"
   },
   {
     "id": "72",
@@ -573,7 +573,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/GfX23sQjZF9WH4"
+    "image": "https://api.exercisedb.io/v2/exercises/0547/image"
   },
   {
     "id": "73",
@@ -581,7 +581,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Jump Rope",
-    "image": "https://v2.exercisedb.io/image/oZo8DlARZOQ9Ei"
+    "image": "https://api.exercisedb.io/v2/exercises/0564/image"
   },
   {
     "id": "74",
@@ -589,7 +589,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/RaSWjwZQPbI9eV"
+    "image": "https://api.exercisedb.io/v2/exercises/0565/image"
   },
   {
     "id": "75",
@@ -597,7 +597,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/VnLRZOa4Nzc7qc"
+    "image": "https://api.exercisedb.io/v2/exercises/0567/image"
   },
   {
     "id": "76",
@@ -605,7 +605,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Kettlebell",
-    "image": "https://v2.exercisedb.io/image/wuvM5Ns7IWZwdg"
+    "image": "https://api.exercisedb.io/v2/exercises/0596/image"
   },
   {
     "id": "77",
@@ -613,7 +613,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/wBCrPcr5HHDW9x"
+    "image": "https://api.exercisedb.io/v2/exercises/1456/image"
   },
   {
     "id": "78",
@@ -621,7 +621,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Cable",
-    "image": "https://v2.exercisedb.io/image/aRJ3VKJDFiF00R"
+    "image": "https://api.exercisedb.io/v2/exercises/0606/image"
   },
   {
     "id": "79",
@@ -629,7 +629,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/IHqvbNB7-eAV7x"
+    "image": "https://api.exercisedb.io/v2/exercises/0359/image"
   },
   {
     "id": "80",
@@ -637,7 +637,7 @@
     "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Machine",
-    "image": "https://v2.exercisedb.io/image/aGHIJr50JjWqVl"
+    "image": "https://api.exercisedb.io/v2/exercises/0599/image"
   },
   {
     "id": "81",
@@ -645,7 +645,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Machine",
-    "image": "https://v2.exercisedb.io/image/yH0mPdTRDDOMui"
+    "image": "https://api.exercisedb.io/v2/exercises/0589/image"
   },
   {
     "id": "82",
@@ -653,7 +653,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Machine",
-    "image": "https://v2.exercisedb.io/image/x7Mxz-G0-xZ-VG"
+    "image": "https://api.exercisedb.io/v2/exercises/0604/image"
   },
   {
     "id": "83",
@@ -661,7 +661,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/dJhgK46cW0Mwsw"
+    "image": "https://api.exercisedb.io/v2/exercises/0592/image"
   },
   {
     "id": "84",
@@ -669,7 +669,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/x7fXwrJ0PFNMo-"
+    "image": "https://api.exercisedb.io/v2/exercises/0619/image"
   },
   {
     "id": "85",
@@ -677,7 +677,7 @@
     "category": "Cardio",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/9YdFSe6K1-A0jj"
+    "image": "https://api.exercisedb.io/v2/exercises/0636/image"
   },
   {
     "id": "86",
@@ -685,7 +685,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/s5hZDGnq0u3c0K"
+    "image": "https://api.exercisedb.io/v2/exercises/0091/image"
   },
   {
     "id": "87",
@@ -693,7 +693,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Machine",
-    "image": "https://v2.exercisedb.io/image/BrM55NpPIIoEgp"
+    "image": "https://api.exercisedb.io/v2/exercises/0654/image"
   },
   {
     "id": "88",
@@ -701,7 +701,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/y6S9HYrBdUQYe-"
+    "image": "https://api.exercisedb.io/v2/exercises/0672/image"
   },
   {
     "id": "89",
@@ -709,7 +709,7 @@
     "category": "Core",
     "bodyPart": "Core",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/Hx7SbvRXHT00Wl"
+    "image": "https://api.exercisedb.io/v2/exercises/0673/image"
   },
   {
     "id": "90",
@@ -717,7 +717,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/SLwXIKYMhXBUSa"
+    "image": "https://api.exercisedb.io/v2/exercises/0685/image"
   },
   {
     "id": "91",
@@ -725,7 +725,7 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/yI0XAqZ3cTKhAw"
+    "image": "https://api.exercisedb.io/v2/exercises/0688/image"
   },
   {
     "id": "92",
@@ -733,7 +733,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/Gh68c-Vj5rKNzV"
+    "image": "https://api.exercisedb.io/v2/exercises/0689/image"
   },
   {
     "id": "93",
@@ -741,7 +741,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/HmElpLuwVZGeSe"
+    "image": "https://api.exercisedb.io/v2/exercises/0692/image"
   },
   {
     "id": "94",
@@ -749,7 +749,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/UGzBqtpWQgTWCj"
+    "image": "https://api.exercisedb.io/v2/exercises/0662/image"
   },
   {
     "id": "95",
@@ -757,7 +757,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/AcEbHQrPXNDG-Y"
+    "image": "https://api.exercisedb.io/v2/exercises/0716/image"
   },
   {
     "id": "96",
@@ -765,7 +765,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/p3p8CxDkXIJWyG"
+    "image": "https://api.exercisedb.io/v2/exercises/0374/image"
   },
   {
     "id": "97",
@@ -773,7 +773,7 @@
     "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/wW5EYs8SuV2pCJ"
+    "image": "https://api.exercisedb.io/v2/exercises/0739/image"
   },
   {
     "id": "98",
@@ -781,7 +781,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Machine",
-    "image": "https://v2.exercisedb.io/image/2HN-RGvHKXuSaj"
+    "image": "https://api.exercisedb.io/v2/exercises/0750/image"
   },
   {
     "id": "99",
@@ -789,7 +789,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/BwTfHnUNLPOlCh"
+    "image": "https://api.exercisedb.io/v2/exercises/0757/image"
   },
   {
     "id": "100",
@@ -797,7 +797,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Cable",
-    "image": "https://v2.exercisedb.io/image/ktXTy8WChvNJ-q"
+    "image": "https://api.exercisedb.io/v2/exercises/0779/image"
   },
   {
     "id": "101",
@@ -805,7 +805,7 @@
     "category": "Legs",
     "bodyPart": "Calves",
     "equipment": "Machine",
-    "image": "https://v2.exercisedb.io/image/SfWLFLTqrn7yIm"
+    "image": "https://api.exercisedb.io/v2/exercises/1373/image"
   },
   {
     "id": "102",
@@ -813,7 +813,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Machine",
-    "image": "https://v2.exercisedb.io/image/4UQSl1PqQEDG2a"
+    "image": "https://api.exercisedb.io/v2/exercises/0806/image"
   },
   {
     "id": "103",
@@ -821,7 +821,7 @@
     "category": "Core",
     "bodyPart": "Core",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/1WoYzR2oK7Yx2m"
+    "image": "https://api.exercisedb.io/v2/exercises/0823/image"
   },
   {
     "id": "104",
@@ -829,7 +829,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/Y9UofjFGJx5QUU"
+    "image": "https://api.exercisedb.io/v2/exercises/0833/image"
   },
   {
     "id": "105",
@@ -837,7 +837,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/sSy3LSlb76qL-E"
+    "image": "https://api.exercisedb.io/v2/exercises/1683/image"
   },
   {
     "id": "106",
@@ -845,7 +845,7 @@
     "category": "Chest",
     "bodyPart": "Chest",
     "equipment": "Smith Machine",
-    "image": "https://v2.exercisedb.io/image/xE2Pz9PZUE-E65"
+    "image": "https://api.exercisedb.io/v2/exercises/0841/image"
   },
   {
     "id": "107",
@@ -853,7 +853,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Smith Machine",
-    "image": "https://v2.exercisedb.io/image/2d7fUe52ePT1xH"
+    "image": "https://api.exercisedb.io/v2/exercises/0853/image"
   },
   {
     "id": "108",
@@ -861,7 +861,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/uPJfzXj0hVtQRK"
+    "image": "https://api.exercisedb.io/v2/exercises/0877/image"
   },
   {
     "id": "109",
@@ -869,7 +869,7 @@
     "category": "Legs",
     "bodyPart": "Calves",
     "equipment": "Machine",
-    "image": "https://v2.exercisedb.io/image/4Zcq2pM-59nYqD"
+    "image": "https://api.exercisedb.io/v2/exercises/0888/image"
   },
   {
     "id": "110",
@@ -877,7 +877,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/IiNEJW4jLo0NiL"
+    "image": "https://api.exercisedb.io/v2/exercises/0898/image"
   },
   {
     "id": "111",
@@ -885,7 +885,7 @@
     "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/wW5EYs8SuV2pCJ"
+    "image": "https://api.exercisedb.io/v2/exercises/0900/image"
   },
   {
     "id": "112",
@@ -893,7 +893,7 @@
     "category": "Legs",
     "bodyPart": "Hamstrings",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/LWE5dxqFoOdXBk"
+    "image": "https://api.exercisedb.io/v2/exercises/0911/image"
   },
   {
     "id": "113",
@@ -901,7 +901,7 @@
     "category": "Back",
     "bodyPart": "Lower Back",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/a-CsGxlVuqL9SU"
+    "image": "https://api.exercisedb.io/v2/exercises/0912/image"
   },
   {
     "id": "114",
@@ -909,7 +909,7 @@
     "category": "Back",
     "bodyPart": "Back",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/1KYhwBz8YXOSLu"
+    "image": "https://api.exercisedb.io/v2/exercises/0914/image"
   },
   {
     "id": "115",
@@ -917,7 +917,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/gDI8uHuS43ddzg"
+    "image": "https://api.exercisedb.io/v2/exercises/3231/image"
   },
   {
     "id": "116",
@@ -925,7 +925,7 @@
     "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Machine",
-    "image": "https://v2.exercisedb.io/image/J9tDHc0P5-LiTn"
+    "image": "https://api.exercisedb.io/v2/exercises/0946/image"
   },
   {
     "id": "117",
@@ -933,7 +933,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/A6VtYtAJU5Xo3Z"
+    "image": "https://api.exercisedb.io/v2/exercises/0957/image"
   },
   {
     "id": "118",
@@ -941,7 +941,7 @@
     "category": "Arms",
     "bodyPart": "Triceps",
     "equipment": "Cable",
-    "image": "https://v2.exercisedb.io/image/gQOKPkw0eXDPNe"
+    "image": "https://api.exercisedb.io/v2/exercises/0196/image"
   },
   {
     "id": "119",
@@ -949,7 +949,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Kettlebell",
-    "image": "https://v2.exercisedb.io/image/4nBgWyMCICl6i9"
+    "image": "https://api.exercisedb.io/v2/exercises/0966/image"
   },
   {
     "id": "120",
@@ -957,7 +957,7 @@
     "category": "Shoulders",
     "bodyPart": "Shoulders",
     "equipment": "Barbell",
-    "image": "https://v2.exercisedb.io/image/WnkPYBgZaHE3Oa"
+    "image": "https://api.exercisedb.io/v2/exercises/0972/image"
   },
   {
     "id": "121",
@@ -965,7 +965,7 @@
     "category": "Core",
     "bodyPart": "Abs",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/T5RbTkpn0jMqzF"
+    "image": "https://api.exercisedb.io/v2/exercises/0982/image"
   },
   {
     "id": "122",
@@ -973,7 +973,7 @@
     "category": "Full Body",
     "bodyPart": "Full Body",
     "equipment": "Medicine Ball",
-    "image": "https://v2.exercisedb.io/image/qsYmETSvR9f8Ej"
+    "image": "https://api.exercisedb.io/v2/exercises/1022/image"
   },
   {
     "id": "123",
@@ -981,7 +981,7 @@
     "category": "Legs",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/QCU4nkZYQqRPFZ"
+    "image": "https://api.exercisedb.io/v2/exercises/0983/image"
   },
   {
     "id": "124",
@@ -989,7 +989,7 @@
     "category": "Back",
     "bodyPart": "Lats",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/bX1cI4pqOh2Sav"
+    "image": "https://api.exercisedb.io/v2/exercises/1018/image"
   },
   {
     "id": "125",
@@ -997,7 +997,7 @@
     "category": "Core",
     "bodyPart": "Core",
     "equipment": "Kettlebell",
-    "image": "https://v2.exercisedb.io/image/qMdNvBR5lLzb9w"
+    "image": "https://api.exercisedb.io/v2/exercises/1019/image"
   },
   {
     "id": "126",
@@ -1005,7 +1005,7 @@
     "category": "Arms",
     "bodyPart": "Forearms",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/H3eVvxd1sDYgMD"
+    "image": "https://api.exercisedb.io/v2/exercises/1428/image"
   },
   {
     "id": "127",
@@ -1013,7 +1013,7 @@
     "category": "Flexibility",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
-    "image": "https://v2.exercisedb.io/image/9CX0I9M7PjfVl3"
+    "image": "https://api.exercisedb.io/v2/exercises/3304/image"
   },
   {
     "id": "128",
@@ -1021,6 +1021,6 @@
     "category": "Arms",
     "bodyPart": "Biceps",
     "equipment": "Dumbbell",
-    "image": "https://v2.exercisedb.io/image/3jlFH-BxWSt3eo"
+    "image": "https://api.exercisedb.io/v2/exercises/1026/image"
   }
 ]

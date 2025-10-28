@@ -138,7 +138,7 @@
   {
     "id": "18",
     "name": "Battle Ropes",
-    "category": "Reps Only",
+    "category": "Cardio",
     "bodyPart": "Full Body",
     "equipment": "Battle Ropes",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -178,7 +178,7 @@
   {
     "id": "23",
     "name": "Bulgarian Split Squat",
-    "category": "Reps Only",
+    "category": "Barbell",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -186,7 +186,7 @@
   {
     "id": "24",
     "name": "Burpees",
-    "category": "Reps Only",
+    "category": "Cardio",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -442,7 +442,7 @@
   {
     "id": "56",
     "name": "Face Pull",
-    "category": "Machine / Other",
+    "category": "Reps Only",
     "bodyPart": "Shoulders",
     "equipment": "Cable",
     "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400&h=400&fit=crop"
@@ -490,7 +490,7 @@
   {
     "id": "62",
     "name": "Goblet Squat",
-    "category": "Dumbbell",
+    "category": "Barbell",
     "bodyPart": "Quadriceps",
     "equipment": "Dumbbell",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -586,7 +586,7 @@
   {
     "id": "74",
     "name": "Jump Squat",
-    "category": "Reps Only",
+    "category": "Barbell",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -594,7 +594,7 @@
   {
     "id": "75",
     "name": "Jumping Jacks",
-    "category": "Reps Only",
+    "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -674,7 +674,7 @@
   {
     "id": "85",
     "name": "Mountain Climbers",
-    "category": "Reps Only",
+    "category": "Cardio",
     "bodyPart": "Full Body",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
@@ -698,7 +698,7 @@
   {
     "id": "88",
     "name": "Pistol Squat",
-    "category": "Reps Only",
+    "category": "Barbell",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -802,7 +802,7 @@
   {
     "id": "101",
     "name": "Seated Calf Raise",
-    "category": "Machine / Other",
+    "category": "Reps Only",
     "bodyPart": "Calves",
     "equipment": "Machine",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -858,7 +858,7 @@
   {
     "id": "108",
     "name": "Squat",
-    "category": "Reps Only",
+    "category": "Barbell",
     "bodyPart": "Quadriceps",
     "equipment": "Body Weight",
     "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400&h=400&fit=crop"
@@ -922,7 +922,7 @@
   {
     "id": "116",
     "name": "Treadmill",
-    "category": "Machine / Other",
+    "category": "Cardio",
     "bodyPart": "Cardio",
     "equipment": "Machine",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop"
